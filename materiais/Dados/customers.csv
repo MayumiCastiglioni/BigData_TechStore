@@ -1,0 +1,1001 @@
+customer_id,first_name,last_name,email,phone,birth_date,gender,city,state,region_id,registration_date,customer_segment
+1,Beatriz,Azevedo,wborges@example.net,+55 65 3986-3538,1977-06-04,F,Câmara,PA,5,2026-05-12,Platinum
+2,Cecilia,Campos,evelynvieira@example.org,66 5950-9992,1998-05-13,F,Oliveira do Norte,DF,2,2024-03-14,Prata
+3,Ana Vitória,Fogaça,ana-liviadias@example.net,+55 14 5698-7887,1990-03-30,F,Pastor,AP,1,2024-03-27,Bronze
+4,Eloá,da Cruz,hsousa@example.com,42 6534-5631,1988-08-17,M,Moreira Alegre,PE,2,2023-09-27,Prata
+5,Diogo,da Costa,alicia69@example.com,+55 46 6468-0495,2006-11-11,F,Machado,PR,5,2023-09-04,Bronze
+6,Valentim,da Cunha,almeidaana-julia@example.org,+55 32 4493-2701,1963-04-16,F,Andrade,SP,4,2023-10-10,Platinum
+7,Francisco,Jesus,antonellamonteiro@example.com,41 3452-2626,1957-11-06,F,Gomes,SC,5,2023-09-06,Bronze
+8,Pedro Henrique,Monteiro,cassianojoao-pedro@example.com,+55 86 0190-1721,1963-11-10,M,Pimenta,SC,5,2025-03-29,Ouro
+9,Bruno,Moreira,da-luzmatheus@example.org,32 6129-9276,1998-01-27,F,Rezende Verde,AM,1,2026-03-08,Ouro
+10,Apollo,Moreira,aylasouza@example.com,27 3811-2903,2007-12-14,F,Costa Grande,MS,2,2025-08-26,Platinum
+11,Pedro Henrique,Cirino,augustoda-conceicao@example.net,+55 66 1545-3554,1955-12-28,M,Casa Grande do Campo,BA,3,2025-06-17,Prata
+12,Olívia,Abreu,rda-mata@example.net,+55 82 4346-8841,1957-12-29,M,Câmara do Galho,CE,3,2024-10-29,Prata
+13,Augusto,Silva,lopeslaura@example.com,+55 83 0844-3555,1995-11-21,M,Novaes,GO,3,2026-03-27,Prata
+14,Larissa,Vieira,da-pazhelena@example.com,+55 12 8288-5032,1993-09-29,M,da Cunha do Oeste,AL,5,2026-06-05,Ouro
+15,Camila,Castro,camargoana-sophia@example.com,+55 93 4176-7419,1997-02-02,F,Araújo,PB,1,2024-02-04,Bronze
+16,Emanuelly,Ribeiro,thomasdias@example.org,+55 94 3712-4802,1985-09-26,F,Pereira Grande,AP,3,2025-05-24,Prata
+17,Maria Isis,Lopes,maria-lizda-luz@example.org,+55 96 2615-4000,1956-11-27,M,Rezende,PI,2,2025-01-19,Bronze
+18,Mariah,da Mota,hpeixoto@example.net,69 7679-1639,1986-05-25,M,Lima,PR,4,2024-12-23,Bronze
+19,Lorena,Albuquerque,caue28@example.org,54 0106-9585,2003-07-05,M,Gonçalves do Galho,RJ,2,2024-06-18,Platinum
+20,Miguel,Peixoto,mariana17@example.com,63 8339-2565,1996-05-27,M,Silva de Machado,PR,3,2025-11-08,Platinum
+21,Heitor,Albuquerque,vitoria47@example.net,48 4090-1300,1967-02-16,M,Gonçalves de Pinto,GO,5,2026-03-04,Prata
+22,João Lucas,Ribeiro,eduardoviana@example.com,+55 99 1068-7590,1983-01-23,F,Vasconcelos de da Rosa,MT,4,2024-06-21,Ouro
+23,Nina,Duarte,oda-conceicao@example.org,+55 65 9637-3397,2003-08-15,F,Vasconcelos,MG,5,2024-07-01,Platinum
+24,João Guilherme,Vieira,noahpereira@example.net,14 2381-5547,1961-03-04,M,Brito,MS,2,2026-02-01,Prata
+25,Maria,Monteiro,davi-miguelsilva@example.com,+55 94 0120-1775,2005-09-17,M,Borges do Oeste,PA,3,2023-11-07,Bronze
+26,Guilherme,Lopes,ana-beatriznovaes@example.com,+55 92 0531-6555,1965-02-19,M,Rocha de Lima,MT,5,2024-02-01,Prata
+27,Maria Julia,Camargo,nunesjulia@example.com,43 2707-4991,1978-06-11,M,Abreu do Oeste,CE,1,2025-04-28,Bronze
+28,Nicole,Nogueira,helenasiqueira@example.com,16 7710-6879,1983-09-27,M,Albuquerque de Goiás,SC,1,2025-08-12,Bronze
+29,José,Gonçalves,gabrielly49@example.org,+55 53 9438-0092,1982-06-15,F,Rodrigues de Minas,SC,1,2026-04-15,Prata
+30,Arthur Gabriel,Oliveira,ian72@example.com,92 3208-1985,1967-11-16,F,Albuquerque,TO,4,2024-04-24,Prata
+31,Henry,Abreu,luiz-henrique37@example.net,+55 32 4551-5382,1956-02-20,M,Macedo,RJ,5,2023-10-26,Platinum
+32,Luiza,Fonseca,ramoscatarina@example.org,+55 91 4279-7352,1974-06-09,M,Correia de Minas,AC,4,2024-02-17,Platinum
+33,Vinícius,Cirino,lopesaugusto@example.net,+55 44 5619-1037,1960-08-14,M,Dias das Flores,SE,1,2025-05-14,Bronze
+34,Antonella,Câmara,paulo99@example.com,79 7305-0740,1966-05-19,F,Barbosa,PR,3,2026-07-21,Platinum
+35,Rafaela,Barbosa,mcamara@example.com,+55 75 0652-6458,1980-04-01,F,Borges das Pedras,PI,4,2024-04-26,Bronze
+36,Pedro Henrique,Vargas,bcastro@example.org,19 2685-0561,1970-10-02,M,Cunha Verde,SE,1,2025-02-12,Platinum
+37,Alícia,Cardoso,bmartins@example.net,+55 34 3514-8805,1975-08-04,F,Barros Grande,SE,1,2025-11-27,Prata
+38,Stella,Ramos,luna03@example.com,82 8711-9271,2003-06-28,M,Vieira das Flores,MS,2,2024-03-11,Platinum
+39,Juliana,Fernandes,raviaragao@example.net,+55 31 1623-7182,1995-07-08,M,Mendonça,PA,4,2025-08-09,Prata
+40,Marcos Vinicius,Pimenta,alicia15@example.com,+55 49 0623-5347,1964-01-23,F,Porto de Rezende,CE,4,2023-09-30,Prata
+41,Luiz Henrique,Porto,yan71@example.net,+55 86 1701-9991,1985-10-03,M,Macedo de Viana,AP,4,2025-10-26,Bronze
+42,Nicole,Vieira,abreuian@example.net,64 0957-7982,1970-07-14,M,Macedo,RN,5,2024-12-24,Bronze
+43,Asafe,Vieira,ana-cecilia17@example.net,75 7416-2470,1974-07-13,M,Monteiro,ES,2,2025-02-18,Prata
+44,Sofia,Castro,alanada-rocha@example.com,41 6623-8711,1975-05-27,F,Lima,ES,4,2025-05-25,Platinum
+45,Sofia,Moura,cavalcantibarbara@example.com,+55 68 1618-6039,1963-04-13,M,Barros,BA,4,2025-10-09,Bronze
+46,Ana,Garcia,emanuel11@example.com,15 7926-9274,2007-12-02,M,Ferreira,RS,4,2026-05-05,Bronze
+47,Antonella,Borges,sarahmoura@example.org,+55 87 7396-6260,1985-12-22,F,Rezende,PR,3,2025-08-15,Platinum
+48,Igor,Fogaça,luiz-henrique92@example.org,84 5352-8637,1981-02-01,F,Sousa dos Dourados,BA,4,2024-06-17,Platinum
+49,Ana Julia,Garcia,jsales@example.com,+55 41 9971-4318,1969-07-22,M,Viana,PE,2,2026-02-20,Ouro
+50,Ana Vitória,da Luz,joao-lucassiqueira@example.net,+55 19 8326-8379,1975-11-30,M,Pacheco das Pedras,RS,1,2025-02-24,Bronze
+51,Nicole,Novais,varagao@example.net,+55 44 8741-2382,2003-06-17,F,Viana,ES,1,2023-09-15,Bronze
+52,Yago,Correia,qteixeira@example.net,+55 53 4692-9945,2002-11-16,F,Peixoto,SE,5,2025-07-06,Prata
+53,Rhavi,Cassiano,ppeixoto@example.com,84 4787-3942,1975-01-18,M,Garcia,DF,5,2026-06-07,Bronze
+54,Lara,Pereira,ravi99@example.org,44 6087-2066,1962-08-06,M,Moraes,AP,1,2024-05-13,Bronze
+55,Marcelo,Oliveira,davi-luizda-rocha@example.org,71 8074-6111,1957-11-22,M,Jesus,AM,4,2025-06-15,Bronze
+56,Leandro,Novais,pietrasilveira@example.net,92 0687-0310,2002-09-01,M,Porto,MT,5,2024-06-30,Bronze
+57,Leonardo,Fernandes,luiz-henrique86@example.com,28 3761-5811,1963-08-30,M,Freitas,AM,4,2025-04-11,Ouro
+58,Ana Clara,Silva,elisapereira@example.net,+55 63 0683-6187,1958-10-31,F,Silva da Prata,AC,2,2025-07-31,Ouro
+59,Elisa,Moraes,bellanunes@example.com,14 5758-4143,1992-10-29,M,Silveira da Mata,AP,3,2024-06-04,Platinum
+60,Maria Fernanda,Santos,emendes@example.net,+55 85 4570-4151,2004-09-13,M,Vargas,GO,3,2025-04-06,Platinum
+61,Melina,Borges,kmacedo@example.com,+55 71 8906-8319,1975-11-24,F,Macedo,MG,1,2025-06-15,Bronze
+62,Luiz Gustavo,Andrade,liamda-rosa@example.net,31 6083-8446,1965-09-25,F,Guerra,AP,5,2023-11-22,Bronze
+63,Daniel,Camargo,maria-eduardacavalcanti@example.com,+55 53 5080-1964,1976-02-12,M,Barbosa do Campo,MT,5,2024-09-05,Prata
+64,Renan,Melo,gabrielada-cunha@example.org,0900 296 5922,1997-03-08,F,Moreira,RR,2,2025-01-31,Ouro
+65,Yasmin,Cardoso,bsales@example.org,+55 17 4560-6389,1958-09-26,M,Almeida de Santos,PI,2,2025-06-17,Ouro
+66,Davi,Martins,cecilia51@example.net,13 9625-8589,1973-08-24,F,das Neves,RO,2,2026-02-17,Platinum
+67,Levi,Cavalcante,pedro-lucas52@example.net,+55 85 5464-7879,1957-05-23,F,Gonçalves Alegre,GO,5,2025-03-03,Bronze
+68,Gustavo Henrique,Mendonça,pimentakamilly@example.com,99 3871-5453,1992-07-05,F,Almeida da Praia,RR,1,2026-03-09,Prata
+69,Enrico,Pastor,araujovitor@example.org,99 2449-6654,1979-01-25,F,Ramos das Pedras,DF,1,2024-07-26,Bronze
+70,Diego,Rocha,lda-rocha@example.net,+55 68 7757-6399,1956-07-23,M,da Luz das Pedras,PR,3,2023-11-14,Ouro
+71,Sophie,Nunes,fernandesemanuella@example.com,+55 96 7011-5977,2006-08-25,M,Lima,GO,3,2024-12-31,Prata
+72,Manuella,Castro,vasconceloskamilly@example.com,+55 31 4336-4449,2008-05-05,F,Correia,RJ,5,2024-06-02,Platinum
+73,Benjamim,Novaes,luaraleao@example.net,91 4489-1591,1995-12-14,F,Novaes,TO,1,2024-04-16,Bronze
+74,Gustavo Henrique,Albuquerque,cardosobianca@example.net,+55 45 5865-0303,1974-12-20,F,Gonçalves de Gonçalves,PI,3,2023-12-08,Bronze
+75,Vitor Gabriel,Novaes,danielapimenta@example.net,61 6722-3379,1983-08-15,M,Souza,AP,3,2025-05-26,Prata
+76,Pietra,Mendonça,eloahfogaca@example.net,33 4595-1429,1968-07-20,F,Aragão do Amparo,AL,2,2025-11-08,Platinum
+77,Luiz Miguel,da Conceição,icorreia@example.com,55 0126-8335,1957-05-09,F,da Rocha de Minas,SC,5,2026-02-07,Bronze
+78,Brenda,Pinto,enrico46@example.org,+55 68 7986-4387,2008-01-22,M,Macedo da Prata,RN,1,2025-01-13,Prata
+79,Kaique,Ramos,raelazevedo@example.org,74 4099-5148,1993-12-30,M,Gomes do Campo,BA,3,2025-05-24,Prata
+80,João Guilherme,Martins,maria-vitoriada-costa@example.org,+55 33 2393-1833,2004-12-26,F,Melo,ES,2,2024-04-20,Bronze
+81,Gabriela,Abreu,luiz-gustavo93@example.com,+55 11 1978-1377,1968-09-19,F,Fernandes,PE,3,2025-12-13,Bronze
+82,Bella,Rodrigues,nina08@example.net,89 5553-8518,1967-07-02,F,Barros,PB,2,2026-06-08,Prata
+83,Larissa,Andrade,luara76@example.net,73 5904-8989,2002-04-07,M,Rezende de Rodrigues,AC,3,2023-08-22,Platinum
+84,Ana Luiza,Vieira,pietramartins@example.com,96 1092-5088,1989-10-13,M,Pastor,AC,2,2025-01-30,Prata
+85,Laís,da Luz,thales04@example.org,64 5211-2129,1963-08-17,M,Cardoso,SC,4,2025-08-27,Bronze
+86,Emanuelly,Melo,franciscopimenta@example.net,+55 75 4244-0967,1966-06-04,M,Novais dos Dourados,PR,3,2024-09-26,Platinum
+87,Nicole,Peixoto,mporto@example.org,71 5495-9583,1988-12-06,M,Porto das Flores,SE,3,2026-06-22,Prata
+88,Fernanda,Pimenta,kazevedo@example.com,27 2604-3501,2006-07-28,M,Oliveira de Minas,RO,4,2026-04-13,Bronze
+89,Josué,Azevedo,isaac35@example.org,91 4007-2422,1996-09-10,F,Alves da Prata,DF,2,2024-04-11,Prata
+90,João,Montenegro,vmartins@example.net,+55 53 0491-8480,1967-07-13,F,Sá da Mata,RN,3,2024-10-11,Ouro
+91,Ana Laura,da Cunha,fernandesluiza@example.com,+55 92 4104-1046,1966-12-24,M,Rocha de Cirino,PI,2,2025-07-30,Bronze
+92,Ana Laura,Nogueira,acamara@example.com,37 9147-7080,2006-09-06,M,Vasconcelos,MA,4,2023-12-25,Ouro
+93,Théo,Garcia,ianvargas@example.com,33 8801-0603,1965-05-14,F,Pereira da Mata,AP,1,2025-09-03,Ouro
+94,Pedro Miguel,Cavalcanti,kcirino@example.org,+55 66 1043-9856,1974-12-14,F,Rocha,RN,5,2024-04-23,Platinum
+95,Murilo,Sales,riosleo@example.com,28 9325-0584,1963-05-19,F,Novaes Alegre,GO,1,2026-02-06,Bronze
+96,Fernanda,Guerra,maria-luizarodrigues@example.org,+55 16 9107-9928,1972-04-03,F,Moreira da Mata,SE,2,2024-12-31,Ouro
+97,Cecília,Montenegro,domalmeida@example.net,49 5309-2015,1991-02-06,M,Castro Alegre,ES,1,2025-08-14,Platinum
+98,Benicio,Aragão,xguerra@example.com,22 8189-7813,1963-04-07,F,Moura,CE,3,2025-07-19,Platinum
+99,Joaquim,Nascimento,vcampos@example.com,28 9330-8264,1978-09-24,M,Barbosa,PI,4,2024-01-30,Prata
+100,Francisco,Moraes,aylla84@example.com,12 1137-8562,2008-03-28,F,Almeida,PE,1,2025-09-06,Platinum
+101,Manuella,Lima,oliveiralucca@example.com,+55 96 9839-6270,1967-11-13,M,Correia,PB,5,2023-12-29,Prata
+102,Enzo,Campos,ucarvalho@example.net,86 6600-9921,1977-12-27,F,Fogaça,BA,4,2026-03-20,Bronze
+103,Ana Carolina,Moraes,manuelamendonca@example.net,73 5673-3703,1982-05-12,F,Borges da Serra,PR,5,2024-01-28,Ouro
+104,Brayan,Macedo,brayan40@example.org,32 8615-3825,1959-11-21,M,da Cruz de Costela,MS,3,2026-07-16,Ouro
+105,Erick,Jesus,matteo79@example.com,87 9740-7748,1992-08-21,F,Correia da Serra,AC,3,2024-02-19,Platinum
+106,Maria Eduarda,Cunha,jesusmaria-isis@example.com,22 6431-8317,2006-05-01,F,Teixeira,TO,5,2024-11-03,Prata
+107,Giovanna,Souza,juan94@example.com,+55 67 2517-2007,1959-12-10,M,Moreira Grande,PI,4,2024-07-28,Platinum
+108,Alícia,Costela,barbara87@example.org,+55 37 4622-7563,1981-03-15,M,Pereira,RO,5,2023-08-20,Ouro
+109,Maria Helena,Silva,upinto@example.com,48 5134-5298,1958-05-06,F,Castro de Mendonça,PA,5,2025-07-07,Bronze
+110,Olivia,Guerra,gabrielly94@example.org,+55 28 5737-5649,1991-07-29,F,Ribeiro,AC,3,2025-03-15,Prata
+111,Cecília,Pires,pachecoenzo@example.org,+55 98 8063-8414,1962-03-07,F,Carvalho,AL,5,2025-11-22,Ouro
+112,Sofia,da Cunha,gsantos@example.org,+55 37 5883-3038,1977-05-13,F,Dias,SP,4,2025-10-03,Platinum
+113,Clarice,Moraes,saravi-lucca@example.net,42 0902-0649,1975-09-19,M,Santos,CE,5,2025-02-03,Platinum
+114,Gustavo,Rocha,vitor-hugoandrade@example.net,+55 81 4551-5626,1968-04-28,M,Vasconcelos,PB,1,2025-01-08,Ouro
+115,João Miguel,Castro,da-mataana-beatriz@example.com,+55 97 7488-1306,1980-10-16,F,Peixoto,SP,1,2024-03-14,Prata
+116,Caroline,Alves,amendonca@example.org,+55 27 8012-5611,1995-06-25,F,Montenegro de Gomes,AL,2,2023-08-30,Prata
+117,Nathan,Pires,correiaolivia@example.org,69 5593-6172,1987-08-23,M,Rezende,GO,1,2024-03-06,Bronze
+118,Otto,Moura,caldeiraeloa@example.net,+55 18 0196-4397,2000-07-29,M,Fernandes de Almeida,GO,4,2026-02-07,Bronze
+119,Lorenzo,Correia,samuelgoncalves@example.net,+55 91 9281-0291,1971-07-05,F,Carvalho do Oeste,PR,4,2025-04-18,Prata
+120,Yuri,Mendonça,monteiroalana@example.org,+55 94 7973-8533,1966-02-03,F,Rios,PI,4,2025-11-01,Platinum
+121,Caio,Rezende,ybarros@example.org,47 9418-1142,1970-01-18,M,Andrade,AM,2,2024-07-26,Bronze
+122,Yan,Sá,luanamachado@example.net,+55 81 0083-4934,2001-11-15,M,Monteiro do Oeste,RN,4,2025-06-04,Prata
+123,Mariana,Leão,fernandogomes@example.net,67 6283-5860,1994-05-04,M,Cunha,RJ,5,2026-04-29,Platinum
+124,Ravi,Souza,ceciliaoliveira@example.net,35 5551-1607,2004-09-28,M,Pastor,MT,5,2023-10-19,Prata
+125,Enzo Gabriel,Teixeira,hdias@example.org,92 9000-4726,1992-10-05,M,Lima Alegre,PA,4,2025-11-15,Prata
+126,Joana,Montenegro,costelanoah@example.org,+55 61 3332-2520,1969-06-02,F,Leão,SE,5,2024-02-04,Ouro
+127,Sophia,Borges,ycaldeira@example.com,+55 33 2208-4367,1963-02-24,F,Nogueira dos Dourados,RO,5,2026-01-04,Platinum
+128,Noah,Garcia,carvalhomaria-helena@example.com,+55 42 0988-4382,1994-06-11,F,Aparecida do Sul,SC,2,2024-09-07,Platinum
+129,Sarah,Cirino,silveirarafael@example.com,+55 32 8563-6135,1990-01-27,F,Castro de da Luz,ES,3,2025-03-23,Prata
+130,Isabela,Rocha,luanapimenta@example.com,67 0638-0906,2003-04-17,F,Fernandes da Mata,MS,5,2024-04-14,Platinum
+131,Juan,da Cunha,andradepietro@example.com,+55 61 1681-4608,1970-09-26,M,Casa Grande,MA,3,2024-10-26,Platinum
+132,Vinícius,Melo,raquel48@example.com,84 1314-8311,1965-07-11,M,Jesus do Sul,TO,3,2024-03-08,Prata
+133,Valentim,Dias,gustavo-henrique58@example.net,+55 48 7924-8142,1965-07-18,F,da Costa,SP,3,2026-02-05,Ouro
+134,Alice,Alves,wnogueira@example.net,+55 42 0705-8201,2001-05-22,M,da Luz,ES,2,2026-05-06,Prata
+135,Maria Luísa,Siqueira,da-cunhaemanuel@example.net,16 4812-8412,1983-06-03,M,Jesus,RO,4,2024-07-06,Prata
+136,Lorena,Aparecida,hvieira@example.org,+55 82 5389-3346,1957-12-16,M,Câmara,BA,1,2025-03-15,Platinum
+137,Heitor,Monteiro,ksilva@example.net,+55 46 6471-7583,1956-10-10,F,Câmara,RN,3,2025-11-10,Platinum
+138,Emilly,Sá,ana-julia97@example.org,+55 64 7020-1747,1982-01-18,F,Andrade da Prata,RR,1,2025-10-21,Prata
+139,Sophie,Viana,maria-juliapimenta@example.net,+55 48 1405-7538,2004-09-19,F,Sampaio,PI,4,2026-07-31,Bronze
+140,Guilherme,Barros,ugoncalves@example.net,43 2955-8083,2002-01-01,F,Silva,SP,4,2025-09-04,Bronze
+141,Davi,Garcia,calebdias@example.net,+55 98 5439-4623,1961-10-02,F,Montenegro de Goiás,RN,3,2025-11-28,Platinum
+142,Liz,Correia,alexia36@example.com,+55 17 6063-6617,1988-06-20,F,da Rosa,SP,5,2024-07-29,Prata
+143,Brenda,Vargas,ian32@example.net,+55 95 2216-3334,1980-06-25,F,Rios,AP,2,2026-06-28,Ouro
+144,Anna Liz,Marques,davi-miguel66@example.net,+55 54 8572-6043,1971-03-23,F,da Mota,MG,4,2025-11-24,Bronze
+145,Davi Luiz,Souza,nunesbenjamin@example.com,+55 28 6185-6221,1956-08-27,F,Macedo do Galho,MS,3,2023-11-21,Platinum
+146,Heitor,Gonçalves,ana-claracostela@example.com,93 8548-6980,1989-01-05,M,Aragão,RN,4,2023-09-13,Prata
+147,Isaac,Lima,theonovaes@example.com,+55 17 1594-1267,1999-01-08,M,da Rocha Grande,BA,4,2023-10-08,Bronze
+148,Sabrina,Sá,laviniasa@example.com,85 9392-0616,2006-01-20,M,Silveira de Novaes,RO,4,2025-01-21,Prata
+149,Enzo Gabriel,Pires,davi80@example.net,32 4213-3714,1995-08-31,F,Fogaça das Flores,DF,2,2026-04-08,Bronze
+150,Nina,Pastor,bianca24@example.com,75 5773-7293,1981-07-26,F,Peixoto,RN,4,2025-04-30,Ouro
+151,Ana Clara,Cavalcanti,apollo34@example.net,89 2098-2452,1990-11-18,M,Rocha,RN,4,2025-09-11,Ouro
+152,Bruno,Siqueira,fda-cruz@example.org,14 5016-4788,1981-08-17,F,Cavalcanti,PR,4,2025-12-17,Ouro
+153,Alexandre,Teixeira,luisalima@example.com,+55 19 6712-8931,1989-04-25,F,Cavalcanti,AM,3,2025-02-05,Bronze
+154,Benjamin,Teixeira,mendesisaque@example.net,+55 21 3420-2872,1958-12-20,F,Porto da Praia,RJ,1,2023-09-22,Bronze
+155,Ana Lívia,Farias,guilhermemendes@example.com,68 3209-8813,1970-10-18,F,Leão de Pacheco,MT,2,2024-03-13,Bronze
+156,Bruno,Gonçalves,jcardoso@example.org,+55 63 9853-7040,1957-10-24,M,Monteiro das Flores,PR,1,2026-06-04,Prata
+157,Rhavi,Cardoso,leandro81@example.net,66 3880-6609,1967-05-18,M,Cavalcanti,PR,1,2025-08-23,Prata
+158,Lucas,Cassiano,acunha@example.net,84 8594-1633,1973-09-22,M,Nogueira,MS,2,2024-08-13,Platinum
+159,Elisa,Sampaio,sophie05@example.com,15 0320-2931,1974-09-24,M,Abreu do Sul,PB,5,2026-02-14,Prata
+160,Marcelo,Ribeiro,rodrigo39@example.net,41 5411-5861,1986-10-25,F,Camargo do Campo,SC,3,2025-07-10,Ouro
+161,Benjamim,Carvalho,heloisa87@example.org,+55 73 4746-7021,1962-06-09,M,Albuquerque de das Neves,PR,5,2024-03-03,Bronze
+162,Milena,Rios,mda-rocha@example.org,+55 99 9116-2083,1966-01-19,M,Gonçalves dos Dourados,AL,3,2024-06-29,Bronze
+163,Isaac,Nascimento,isabeldas-neves@example.org,43 3643-5716,1976-08-19,M,Castro Verde,MA,3,2026-07-03,Platinum
+164,Henrique,Sá,eguerra@example.com,95 6947-9366,1955-09-28,F,Campos de da Rocha,PI,2,2024-05-02,Bronze
+165,Heitor,Costa,garciapedro-miguel@example.org,18 8403-5911,1990-08-01,M,Barros,GO,1,2025-10-16,Ouro
+166,Ryan,Marques,zcamargo@example.com,+55 13 6305-2038,1964-10-29,M,Nunes,PA,5,2025-12-14,Bronze
+167,Milena,Guerra,qcavalcanti@example.com,+55 64 7047-4768,1983-04-25,F,Vieira de Minas,RJ,5,2026-02-09,Platinum
+168,Brenda,Barros,teixeiravitor-hugo@example.net,+55 86 7493-9019,1977-10-08,F,Cavalcante,PI,1,2024-11-11,Ouro
+169,Pietro,Caldeira,macedolais@example.com,+55 54 6447-8184,1987-11-13,M,Viana das Flores,AP,4,2026-07-09,Platinum
+170,Calebe,Ramos,anagoncalves@example.com,0300 837 8206,1996-03-19,M,Carvalho das Pedras,AM,4,2024-07-08,Ouro
+171,Ana Cecília,Silveira,maria-claramoura@example.net,87 4543-0435,1983-06-26,F,Nogueira,RO,2,2026-03-06,Platinum
+172,Maria Laura,Moraes,liam77@example.net,38 0774-7285,1992-09-28,M,Rios,MT,5,2025-03-21,Ouro
+173,Gustavo Henrique,Siqueira,bruno80@example.org,41 2517-1351,1963-01-15,F,Melo do Sul,PA,4,2023-10-03,Platinum
+174,Diego,Barbosa,yfarias@example.org,+55 33 4820-7334,1958-12-07,F,Gomes,AP,3,2025-09-27,Prata
+175,Pietra,Montenegro,renanmacedo@example.net,98 8512-0069,1963-08-09,M,Costa de Albuquerque,AL,3,2026-03-02,Platinum
+176,Yago,Novaes,riosdaniela@example.org,+55 67 0811-1709,1990-12-12,M,Garcia do Norte,RN,4,2024-09-26,Platinum
+177,Ana Sophia,Porto,maria-juliamoura@example.com,+55 99 4992-4464,1999-01-19,F,Monteiro,RN,1,2026-05-05,Platinum
+178,Nathan,Garcia,limapedro-henrique@example.org,+55 89 0233-3684,1972-06-01,F,Cavalcanti de Gomes,PB,2,2026-06-28,Platinum
+179,Lara,Silva,rpinto@example.org,13 2419-9808,1956-05-08,M,Peixoto do Sul,RR,3,2024-03-13,Ouro
+180,Antony,Moura,maria-julianascimento@example.org,65 8254-5775,1970-03-14,F,Aragão,SC,3,2025-03-13,Ouro
+181,Amanda,Duarte,pereiraandre@example.com,45 8309-2139,1978-12-18,M,Silva de Rocha,AM,5,2023-12-15,Prata
+182,Isis,da Costa,liviapastor@example.net,+55 42 0011-5937,1989-08-21,M,Fogaça,PR,2,2025-04-28,Platinum
+183,Ester,Souza,limaalexia@example.com,63 2844-4886,1957-09-15,F,Garcia,PE,5,2025-05-04,Prata
+184,Milena,da Rocha,ana-liviasales@example.com,+55 73 6565-4733,1958-05-29,F,Barros Paulista,RR,4,2026-04-27,Platinum
+185,Nicolas,Ribeiro,carlos-eduardo99@example.com,81 2866-0744,1981-08-01,M,Pinto de Goiás,BA,1,2026-04-21,Ouro
+186,Emanuelly,Nogueira,ravi-lucca19@example.org,83 7839-0395,1995-06-08,M,Souza,RO,4,2024-07-01,Prata
+187,Ana Cecília,Almeida,drios@example.net,13 1401-7936,1979-10-24,F,da Paz,SE,5,2026-07-18,Ouro
+188,Camila,Brito,oferreira@example.net,33 4106-4550,1967-10-23,F,Moraes de Goiás,SP,5,2025-07-30,Ouro
+189,Heloisa,da Paz,pedro-lucas97@example.net,+55 13 4279-0105,1971-06-28,F,Cavalcante de Souza,MA,5,2026-04-10,Ouro
+190,Mariana,Rodrigues,caldeirabenjamim@example.org,+55 98 5440-3620,1994-12-09,F,Câmara,MA,4,2023-08-13,Ouro
+191,Alexia,Macedo,pereiraluna@example.net,38 6681-8128,1972-08-27,F,Moura do Campo,DF,3,2025-01-21,Prata
+192,Arthur Miguel,Sousa,antonellavargas@example.com,11 5145-3948,1975-05-10,M,Moura,AP,2,2025-09-26,Ouro
+193,Isabela,Freitas,pimentamariane@example.org,+55 18 3534-3502,1970-04-08,M,Cassiano de Cardoso,PI,5,2024-03-02,Prata
+194,Luiza,Casa Grande,valentimsantos@example.net,32 1671-7651,1993-11-22,M,Moura,CE,2,2025-10-17,Platinum
+195,Lavínia,Nascimento,kda-cunha@example.org,27 4184-0015,1993-10-18,F,Pereira de Marques,SP,5,2024-01-10,Ouro
+196,Henrique,Rocha,emillyfreitas@example.com,12 4287-2060,1961-12-30,M,Pereira de Ribeiro,RJ,2,2025-11-03,Ouro
+197,Dom,Garcia,macedoleo@example.org,53 7782-6218,1971-09-26,M,Rodrigues,RO,3,2026-05-21,Prata
+198,Emilly,da Conceição,levipastor@example.net,+55 44 6068-3047,1992-09-30,F,Marques Verde,RS,1,2023-10-23,Prata
+199,Marcos Vinicius,Sampaio,ramosjoao-pedro@example.net,32 6336-5901,1982-02-20,F,Nogueira do Campo,PE,1,2026-04-03,Bronze
+200,Anthony Gabriel,Souza,caleb17@example.org,+55 43 6729-0043,1973-04-12,F,Rodrigues,GO,2,2026-06-03,Platinum
+201,Mathias,Souza,eloah33@example.net,+55 99 7826-5810,1977-02-12,M,Aragão,ES,1,2025-10-13,Ouro
+202,Melina,Garcia,gmendes@example.org,+55 12 0434-7165,2007-01-26,F,Rios,DF,4,2025-06-19,Platinum
+203,Isaac,Machado,abreulivia@example.net,+55 88 6647-3049,1987-06-23,F,Leão de Castro,MG,2,2025-04-24,Bronze
+204,Asafe,Sá,cirinobianca@example.com,+55 16 6704-0686,1981-08-28,F,Lima do Norte,MS,4,2025-07-24,Bronze
+205,Pietro,Rios,thales12@example.com,0300 904 6309,2007-04-01,M,Araújo Alegre,DF,4,2023-11-26,Platinum
+206,Cauê,Aparecida,manuellaalbuquerque@example.org,66 9009-9847,1987-07-24,M,das Neves dos Dourados,MA,5,2025-10-28,Bronze
+207,Maya,Guerra,josepires@example.org,16 2703-2152,2007-10-17,M,Farias de Cassiano,TO,2,2026-01-28,Ouro
+208,Ísis,Pastor,matheusalmeida@example.net,71 3027-6546,1977-12-26,M,Pereira de Borges,DF,2,2026-07-16,Bronze
+209,João Lucas,Ferreira,antonella74@example.org,35 0963-9266,2000-10-18,F,Araújo da Praia,BA,5,2024-11-02,Prata
+210,Fernanda,Novais,estheralves@example.net,+55 35 2481-8019,1984-04-10,F,Ferreira,CE,4,2025-05-23,Platinum
+211,Luna,Cavalcante,luiz-gustavo58@example.net,+55 17 2007-7225,1981-04-18,F,Fogaça,PA,5,2025-06-29,Platinum
+212,Gabrielly,Vargas,hnascimento@example.net,92 1494-1776,1967-08-31,F,da Paz,PB,5,2025-04-03,Bronze
+213,Laís,Fernandes,luiz-henriqueviana@example.net,+55 46 6088-4391,1964-01-23,M,Melo das Flores,RR,2,2025-03-05,Prata
+214,Laís,Porto,ecavalcanti@example.org,0300 467 6207,1977-01-14,F,Fernandes,AC,1,2024-02-07,Prata
+215,Ana Vitória,Vargas,maria-ceciliacaldeira@example.org,+55 37 1939-8260,1974-07-25,M,da Cunha Verde,AC,2,2025-01-01,Bronze
+216,Nathan,Andrade,cauearagao@example.net,+55 14 4512-3298,1956-03-29,M,Macedo de Goiás,AP,1,2024-11-18,Platinum
+217,Maria Liz,Rios,pmendonca@example.net,+55 37 9642-5247,1957-08-08,F,Nascimento da Prata,MT,5,2026-07-12,Platinum
+218,Isabella,Oliveira,castromaria-vitoria@example.net,+55 66 0952-5869,2002-07-22,F,Garcia,BA,1,2026-05-03,Prata
+219,Davi Luiz,Azevedo,murilo02@example.org,0900 581 3295,2007-06-28,F,Pereira,PB,3,2024-10-21,Platinum
+220,Aurora,Novaes,brendadas-neves@example.net,46 8706-2200,2008-04-15,M,Viana do Oeste,SP,2,2024-08-24,Ouro
+221,Diego,Campos,garcialuiz-felipe@example.com,55 7256-9151,1977-02-13,M,Moreira,AC,4,2026-04-17,Bronze
+222,Luara,Castro,danilo52@example.com,+55 77 1258-5722,1974-01-12,M,da Rosa,MT,2,2024-10-24,Ouro
+223,Yago,Pimenta,luanacavalcante@example.com,+55 98 8537-0897,1955-08-31,M,Sampaio,MS,1,2025-10-11,Bronze
+224,Luan,Pacheco,tmendes@example.com,73 4995-8912,1956-06-03,M,Vieira Alegre,DF,3,2025-09-08,Ouro
+225,Hellena,Guerra,carvalhogiovanna@example.org,13 3368-2905,1969-02-12,F,Ribeiro do Sul,PB,1,2025-07-15,Platinum
+226,Thales,Castro,eduardopeixoto@example.org,74 1235-5572,1965-03-19,F,Pacheco da Serra,RR,4,2024-05-15,Ouro
+227,Maria Laura,Nunes,oliver87@example.net,44 0900-9913,1970-12-31,F,Martins,PE,4,2026-04-20,Bronze
+228,Joana,Vieira,josue65@example.net,+55 69 6077-0314,1991-07-30,M,Pacheco Grande,SE,4,2024-01-21,Ouro
+229,Sabrina,Moreira,valentim27@example.com,+55 77 4168-4499,1974-05-21,F,da Mota da Praia,PR,1,2024-07-28,Bronze
+230,Henry Gabriel,Araújo,pborges@example.org,46 6745-9082,1990-12-15,M,da Mota do Amparo,AP,5,2026-05-28,Bronze
+231,Luiz Miguel,Dias,rafaelaferreira@example.org,+55 79 0412-5164,2006-07-15,F,da Luz da Serra,RJ,5,2026-02-25,Bronze
+232,Alícia,Sá,ksales@example.net,65 3178-2036,1987-04-09,M,Campos do Campo,PR,4,2024-02-27,Platinum
+233,Lunna,Mendonça,alicecamara@example.org,+55 74 5017-1053,1980-07-31,F,da Luz,PB,2,2026-08-02,Platinum
+234,Matteo,Camargo,erezende@example.org,96 9695-0492,1987-01-21,F,Viana do Amparo,AP,1,2026-07-12,Platinum
+235,Bruna,Vargas,caldeirajose@example.com,85 7841-0287,1976-01-03,F,Moura Grande,PI,4,2026-05-10,Ouro
+236,Luana,Vieira,moreiraalexia@example.net,12 9942-0302,2001-05-30,F,Carvalho,AL,1,2024-04-22,Prata
+237,Lívia,Cardoso,nmoura@example.org,+55 33 9436-2165,1978-09-08,F,Cavalcante Paulista,MT,4,2026-06-10,Platinum
+238,Arthur Gabriel,Rodrigues,mcorreia@example.org,44 0623-1262,1982-12-15,F,Fonseca,PR,4,2024-04-30,Bronze
+239,Vitor Hugo,Teixeira,pmendonca@example.org,47 8599-4927,1982-03-20,F,Casa Grande,BA,1,2023-09-03,Ouro
+240,Maria Eduarda,Lima,ana-vitoriacamargo@example.com,66 6425-4739,1993-11-06,F,Aparecida,AM,3,2024-06-10,Bronze
+241,Luiza,Souza,calebe01@example.org,+55 75 5997-4528,1969-03-26,F,Castro,TO,5,2025-09-11,Bronze
+242,Pedro Henrique,Machado,caldeiramarcela@example.org,+55 96 1900-1682,1971-05-13,F,Vargas,SP,4,2023-09-11,Bronze
+243,Josué,Nogueira,stephanyaragao@example.org,44 8805-7576,1997-06-04,M,Pinto,AL,5,2026-04-21,Ouro
+244,Henrique,Porto,igorpeixoto@example.net,+55 83 2008-8051,1986-08-04,F,Vieira,RN,4,2025-11-01,Bronze
+245,João Guilherme,Jesus,da-pazana-cecilia@example.org,+55 93 2494-8877,1958-11-24,M,Mendonça Alegre,MA,3,2025-05-18,Prata
+246,Mathias,Martins,kda-rocha@example.org,97 0612-1124,1973-05-18,F,Pimenta,RS,4,2023-09-26,Platinum
+247,Maria Fernanda,Casa Grande,oliveirabreno@example.com,86 7467-0898,1986-11-05,M,Rocha,CE,1,2025-06-18,Prata
+248,Benjamim,Lima,pastorbarbara@example.org,54 8624-7732,2005-10-11,M,Cassiano de Nogueira,RR,3,2025-11-30,Bronze
+249,Ana Cecília,da Paz,brunacasa-grande@example.net,53 4340-9268,1997-11-17,F,Martins,RO,1,2025-03-30,Prata
+250,Caleb,Aparecida,vianadanilo@example.org,+55 21 0036-1754,1964-12-22,M,Silveira,AM,4,2023-11-30,Bronze
+251,Valentim,Dias,galves@example.net,+55 83 9589-7664,2000-05-29,M,Casa Grande Grande,BA,4,2025-12-30,Ouro
+252,Fernanda,Brito,cunhamariane@example.net,+55 38 4246-4371,1963-09-07,F,Aragão de Nogueira,AM,4,2024-08-26,Platinum
+253,Diogo,Ferreira,rafael59@example.net,15 3694-7998,1986-09-21,F,Pimenta,AL,2,2026-01-29,Platinum
+254,Daniel,Araújo,emilly86@example.com,+55 19 3262-7971,1961-04-03,M,Correia,MA,4,2025-08-23,Prata
+255,Danilo,Teixeira,aurorasales@example.org,42 5297-5101,1959-08-09,M,da Rosa,MA,1,2025-03-24,Ouro
+256,Oliver,Cirino,leonardocasa-grande@example.net,+55 27 9269-3077,1967-11-19,F,Câmara da Mata,RR,3,2023-10-17,Ouro
+257,Ana Júlia,da Mata,bentoda-mota@example.net,33 1474-9476,1981-03-21,M,da Mata,DF,3,2024-03-31,Ouro
+258,Theodoro,Nunes,machadojoao-pedro@example.org,+55 64 0634-2612,1965-12-16,F,Freitas,AP,2,2026-03-20,Platinum
+259,Sarah,Gomes,cavalcantecaleb@example.com,84 3796-7355,1967-04-13,F,Andrade,ES,3,2023-11-10,Ouro
+260,Pedro Lucas,Moraes,nunesevelyn@example.org,+55 12 6648-9112,1987-06-21,F,Alves de Cavalcante,SP,4,2025-10-21,Ouro
+261,Brayan,Duarte,ceciliamelo@example.net,+55 11 3311-3966,1986-02-09,M,Carvalho do Campo,MG,2,2025-07-08,Platinum
+262,Rafael,Nunes,joao-pedro29@example.com,+55 55 2622-7106,1960-05-16,M,Pereira,MA,4,2024-10-03,Bronze
+263,Theodoro,Correia,rda-mota@example.org,11 6278-2327,1969-01-29,F,Sales,RN,4,2025-08-30,Platinum
+264,João,da Costa,calebrodrigues@example.org,+55 16 9043-9326,1978-10-06,F,Pinto,TO,2,2025-12-13,Platinum
+265,Miguel,Gomes,kamillyfonseca@example.net,+55 88 0911-2586,1980-09-12,M,Nogueira,RJ,2,2025-09-24,Ouro
+266,Gustavo Henrique,Almeida,pimentabrenda@example.org,+55 67 3740-5987,1981-12-10,M,Freitas da Mata,CE,4,2026-08-01,Bronze
+267,Levi,Camargo,fernandesyan@example.net,88 5882-5438,1991-06-19,F,Fogaça,MS,1,2024-07-12,Prata
+268,Maria Liz,Andrade,caldeiradaniela@example.org,+55 54 2988-2379,1958-08-25,F,Sá de Nascimento,SC,2,2025-09-27,Bronze
+269,Ana Lívia,das Neves,arthur-gabriel93@example.net,+55 55 7968-3931,1986-11-04,F,Nogueira da Mata,PE,3,2024-11-21,Ouro
+270,Mathias,Mendonça,ravy67@example.net,66 2654-7532,2004-01-06,F,da Luz,MT,1,2024-11-28,Ouro
+271,Vicente,Mendonça,hadassagoncalves@example.net,+55 92 5106-5367,1975-02-11,F,Fogaça,ES,3,2026-04-04,Platinum
+272,Luísa,Pacheco,rochathomas@example.org,+55 41 9557-5643,1989-07-09,M,Duarte,MG,5,2025-07-23,Bronze
+273,Benjamin,Costela,gomesnathan@example.net,12 7832-2487,1985-05-29,M,Marques,DF,3,2025-02-10,Prata
+274,Gabriel,Martins,saleseloa@example.org,61 6171-7616,1989-06-03,M,Pastor,GO,4,2026-05-04,Bronze
+275,Mariah,Aragão,juanlopes@example.org,63 3755-6650,1987-07-25,M,Nogueira de Machado,TO,4,2025-06-26,Prata
+276,Luiz Henrique,Duarte,stephanymendes@example.com,31 1003-6964,1996-09-23,F,Nogueira do Galho,TO,1,2024-12-21,Bronze
+277,Kamilly,Moraes,costelagustavo-henrique@example.net,+55 42 5044-5567,1992-06-15,F,Caldeira Grande,AM,1,2026-04-01,Ouro
+278,Otávio,Freitas,joao-vitor29@example.net,83 1070-3630,1970-02-11,F,Ferreira do Oeste,TO,3,2025-12-08,Platinum
+279,Ágatha,Rios,pastormaria-fernanda@example.org,87 6226-8485,1993-12-17,M,Cassiano do Sul,RR,2,2024-04-07,Platinum
+280,Ian,Machado,ncirino@example.net,+55 41 6270-8258,1995-11-26,M,Camargo,PR,2,2023-12-20,Prata
+281,Ryan,Cavalcante,qporto@example.org,85 7755-8582,1999-09-02,M,Pinto de da Costa,DF,5,2024-12-15,Platinum
+282,Juan,Nascimento,raquelsales@example.org,28 6444-3069,1987-11-18,M,Aparecida,CE,4,2023-12-08,Prata
+283,Isabel,Sampaio,emanuellypinto@example.org,+55 62 9079-7417,1987-09-27,M,Macedo do Oeste,ES,4,2026-07-25,Ouro
+284,Leonardo,da Mata,albuquerqueolivia@example.com,+55 83 3334-1275,1969-01-26,F,Moura do Sul,RS,3,2024-01-19,Bronze
+285,Lívia,Rezende,cavalcantecamila@example.org,+55 55 7080-9298,1989-12-14,F,Pereira,PE,3,2025-02-19,Prata
+286,Isaque,Sales,gabriel14@example.com,+55 85 4626-9360,2005-12-02,M,Ramos Verde,SP,4,2025-10-13,Ouro
+287,Eduarda,Silveira,sda-rosa@example.net,45 0840-2560,1997-11-06,F,Souza,PB,4,2024-09-09,Ouro
+288,Luísa,da Cunha,fporto@example.net,+55 33 2714-0163,1964-12-23,F,Carvalho do Galho,SP,3,2026-03-23,Prata
+289,João Felipe,Nogueira,camaramaria-eduarda@example.org,+55 92 1517-3603,1963-03-12,F,Almeida,RJ,4,2023-12-22,Bronze
+290,Carlos Eduardo,Araújo,mariahda-rosa@example.com,+55 14 6157-9768,1985-03-08,M,das Neves de Goiás,PR,4,2024-06-02,Ouro
+291,Marcos Vinicius,Peixoto,correiacalebe@example.net,+55 55 2568-7997,1974-06-20,F,da Rosa da Mata,MA,3,2025-11-01,Bronze
+292,Letícia,Costela,bruno06@example.com,51 3630-6295,1980-07-06,F,Abreu,RN,3,2023-10-12,Bronze
+293,Rodrigo,Cirino,guilherme35@example.com,+55 47 0200-6476,1980-02-22,M,Mendonça,AM,5,2024-06-13,Platinum
+294,Beatriz,Peixoto,peixotojulia@example.net,+55 32 1832-6248,1974-04-30,F,Melo,AP,2,2025-06-09,Ouro
+295,Arthur Miguel,Pereira,carlos-eduardosouza@example.net,42 0234-2415,1959-08-18,M,Alves,MS,2,2024-01-14,Ouro
+296,Mirella,Albuquerque,mayanovais@example.org,+55 83 4366-8820,1972-05-03,M,Rezende,PR,1,2024-11-02,Bronze
+297,Erick,Vargas,pintoalicia@example.org,51 5882-2513,1995-12-25,F,Peixoto,PI,4,2024-10-04,Bronze
+298,Isaac,Nogueira,maria-vitoriamarques@example.org,+55 18 1358-1756,1978-01-21,F,Cardoso,MA,2,2025-07-29,Bronze
+299,Apollo,Novais,maysa14@example.net,+55 45 7852-3081,1978-06-29,F,Farias,MA,3,2025-08-29,Platinum
+300,Bruno,Pires,fernando50@example.com,+55 42 6077-3608,2001-11-27,M,Ribeiro,MT,2,2026-02-15,Prata
+301,Davi Lucca,Aparecida,cmoraes@example.org,+55 98 4428-6953,1955-11-18,F,Brito,PE,5,2026-04-25,Ouro
+302,José Pedro,das Neves,juanda-cunha@example.com,17 0570-6522,1984-08-19,M,Sá,ES,3,2025-07-13,Platinum
+303,Maria Liz,Araújo,jcavalcanti@example.net,31 6307-2051,1993-04-22,F,Pires do Norte,MG,3,2024-02-22,Bronze
+304,Yasmin,Fogaça,pimentaclarice@example.org,+55 53 1560-2632,1999-10-08,F,Novais de Sales,SE,1,2024-03-23,Prata
+305,Laís,Vargas,wpimenta@example.net,47 1171-7657,2004-05-08,M,Cavalcante de Goiás,CE,4,2024-09-19,Ouro
+306,Noah,Pimenta,da-conceicaomarcelo@example.com,53 0799-5239,2005-05-22,M,Castro,ES,4,2025-04-06,Bronze
+307,Vitória,da Cunha,samuel74@example.com,79 9937-0524,2001-08-22,F,Lopes,RN,5,2025-07-14,Bronze
+308,Luiz Henrique,Borges,matteo01@example.net,+55 68 1483-9398,1977-01-27,F,Azevedo,RO,3,2026-03-16,Ouro
+309,Mariana,Dias,asafeleao@example.net,92 0886-8904,1959-08-10,F,Monteiro,SE,3,2025-10-01,Bronze
+310,Maria Sophia,Carvalho,iborges@example.org,82 5058-4319,1972-08-04,M,Barbosa,ES,4,2024-10-07,Bronze
+311,Hadassa,Mendonça,kcasa-grande@example.com,0800 528 9674,1965-03-18,F,Leão,AC,5,2024-02-11,Prata
+312,Thiago,Nascimento,pcorreia@example.org,21 1080-2480,1998-05-08,M,Moraes,MG,4,2023-09-17,Ouro
+313,Marcos Vinicius,Cirino,pimentalarissa@example.org,84 3512-0438,1982-12-30,F,Pinto de da Paz,SP,1,2023-10-01,Prata
+314,Bárbara,Rocha,da-rosacarlos-eduardo@example.org,+55 24 0091-8616,1967-03-21,M,Guerra,SP,1,2024-12-29,Ouro
+315,Heloisa,Silveira,dnascimento@example.net,35 6523-9093,1996-12-16,F,Cunha,SP,1,2023-12-12,Bronze
+316,Esther,da Cunha,joserocha@example.com,+55 47 0948-3679,2006-07-28,M,Novais,RN,5,2025-02-12,Prata
+317,João Miguel,Castro,kteixeira@example.net,47 9454-7592,1970-07-29,F,Souza,SP,4,2025-04-28,Ouro
+318,Enzo Gabriel,Macedo,fgomes@example.net,+55 41 3775-4425,1959-08-30,F,Mendonça,AM,5,2025-10-11,Prata
+319,Théo,Araújo,vpimenta@example.net,+55 98 5586-8489,1992-11-09,F,Rodrigues,DF,1,2024-12-01,Platinum
+320,Sophie,da Conceição,tvargas@example.org,+55 81 3090-4043,1973-03-05,F,Fogaça,PA,3,2024-05-27,Bronze
+321,Enrico,Azevedo,da-cunhahenrique@example.com,33 1963-1216,1988-07-21,F,Novais de Lopes,RJ,2,2025-12-25,Platinum
+322,Luiz Felipe,Araújo,mariahgoncalves@example.net,+55 51 3798-9671,1975-10-07,F,Rodrigues do Amparo,MA,2,2023-11-05,Ouro
+323,Ana Carolina,Cassiano,larissa98@example.net,+55 31 5763-3704,1967-04-21,M,Vargas,MS,3,2025-10-02,Ouro
+324,Isaque,Moreira,novaesclarice@example.net,+55 33 7546-1204,1957-03-13,M,Fogaça da Serra,SC,4,2024-05-15,Ouro
+325,Juliana,Sales,npimenta@example.org,38 2689-6449,2004-04-18,M,Correia do Galho,MT,1,2026-01-12,Platinum
+326,Caroline,Fonseca,oaraujo@example.org,0300 466 1816,1970-11-28,M,Rios,AM,2,2024-03-21,Bronze
+327,Maitê,Rocha,sampaiohenry-gabriel@example.net,18 4257-5753,1964-06-23,M,Silva da Praia,PE,3,2026-01-12,Prata
+328,Murilo,Costela,clarice87@example.org,42 5290-1253,1961-08-28,M,Silveira,PR,5,2025-03-08,Prata
+329,Maysa,Gomes,maria60@example.org,+55 17 9068-4992,1994-12-16,M,da Mota da Prata,RJ,5,2024-03-09,Prata
+330,Fernanda,Viana,vicentevasconcelos@example.net,+55 71 3080-4671,2001-08-05,M,Novais das Pedras,MG,2,2025-08-31,Ouro
+331,João Lucas,Mendes,kpimenta@example.com,+55 89 3959-3844,1978-04-27,M,Teixeira do Campo,RO,5,2026-05-30,Bronze
+332,Benjamin,Lopes,rmarques@example.net,+55 89 7360-9003,2005-09-10,F,Cardoso de Farias,PE,2,2024-10-22,Prata
+333,Anna Liz,Montenegro,felipe14@example.org,+55 99 6589-0634,1987-11-28,F,Rocha de Campos,SP,2,2026-07-02,Bronze
+334,Emilly,da Conceição,silvamiguel@example.org,12 3059-4790,1978-05-03,M,Cavalcante Alegre,AL,2,2025-02-25,Bronze
+335,Calebe,Sales,sousaayla@example.com,61 0854-3077,1980-03-01,F,Teixeira de Azevedo,RO,2,2024-07-26,Ouro
+336,Igor,Silveira,bnovaes@example.com,81 7411-1149,1978-05-13,M,da Costa de Oliveira,MS,2,2026-04-21,Ouro
+337,Luana,Rocha,agathacarvalho@example.org,+55 46 9305-1532,1980-06-24,M,Gonçalves,PR,2,2025-04-24,Platinum
+338,Eloá,Cassiano,vinicius38@example.net,+55 67 4232-0060,1959-09-28,M,Aparecida,MT,1,2024-06-25,Platinum
+339,Sara,Ferreira,bernardo65@example.com,83 1510-5107,1966-02-07,F,da Mota de Minas,PR,3,2025-05-03,Bronze
+340,Luan,da Conceição,camargosophie@example.com,+55 42 6774-0660,1996-06-09,F,Sampaio,PB,5,2024-03-11,Prata
+341,Melina,Farias,xduarte@example.org,95 2834-9709,1958-07-24,M,Azevedo,BA,5,2024-03-03,Ouro
+342,Arthur,Novaes,dlopes@example.net,51 1619-2204,1989-04-02,F,Montenegro de Vieira,AL,1,2025-02-01,Bronze
+343,Enzo Gabriel,Souza,pedro67@example.net,+55 81 6517-3081,1994-04-26,F,Farias,RJ,4,2025-01-03,Platinum
+344,Ana,Marques,isismoreira@example.org,+55 71 5286-3754,1955-09-24,M,Camargo Paulista,MS,4,2025-09-14,Platinum
+345,Manuella,Vargas,goncalvesrhavi@example.com,+55 28 5471-0571,2006-09-28,M,Cassiano de da Rosa,PA,1,2024-04-15,Ouro
+346,Maria Luísa,Sampaio,qsantos@example.com,+55 35 6116-5136,1996-01-05,M,Freitas,RN,1,2023-11-15,Prata
+347,Maria Vitória,Pinto,luccaalmeida@example.net,81 4980-3118,1989-03-27,F,Silva de Cirino,GO,5,2025-06-18,Ouro
+348,Isadora,Araújo,da-matacecilia@example.net,+55 67 7082-3263,1971-12-15,F,da Cruz,RS,5,2025-07-31,Ouro
+349,Vinicius,da Costa,kpimenta@example.net,+55 18 2109-0220,2001-06-20,F,Moreira de Goiás,MT,5,2025-01-03,Platinum
+350,Davi Miguel,Mendes,stephany85@example.net,94 7243-7524,1962-12-18,M,Costa Alegre,SP,1,2024-07-26,Prata
+351,Bianca,Rocha,yurisousa@example.net,+55 86 6903-0994,1968-05-27,F,Silveira,RJ,4,2024-09-16,Prata
+352,Heitor,Casa Grande,krodrigues@example.com,+55 53 8728-1092,1957-02-06,F,Guerra da Praia,AC,3,2024-02-20,Platinum
+353,Ian,Aragão,freitasmaria-laura@example.net,99 1763-9535,1996-01-15,F,Martins do Amparo,MS,4,2026-06-08,Bronze
+354,Vitória,Pereira,joao-lucaspereira@example.net,+55 96 2272-8042,1974-03-24,F,Sales Grande,RS,4,2024-04-27,Ouro
+355,Alícia,Siqueira,murilopinto@example.net,47 9938-5480,2008-07-08,F,Moreira Grande,AP,3,2025-05-31,Prata
+356,Melina,Martins,rochabeatriz@example.org,+55 45 4304-4224,2007-09-08,F,Jesus,SP,1,2024-02-05,Bronze
+357,Henry Gabriel,Cassiano,emanuel02@example.com,13 7527-6036,1994-05-20,M,Sales de Alves,AM,1,2024-09-09,Platinum
+358,Emanuelly,Novais,cavalcantibella@example.com,64 2575-8418,1968-03-17,M,Marques da Mata,AP,3,2026-04-10,Prata
+359,Sofia,Fernandes,otto84@example.org,99 9648-4016,1992-01-30,M,Pacheco,MG,5,2024-03-01,Ouro
+360,Ester,Fonseca,nda-luz@example.com,81 3260-6742,1994-09-17,M,Sampaio,AL,4,2024-05-27,Ouro
+361,Isis,Novaes,vitormendes@example.org,+55 71 6875-3494,1955-10-19,F,Pereira,PR,1,2024-10-04,Ouro
+362,Théo,Freitas,mmoura@example.org,+55 14 0749-9883,1997-11-28,F,da Conceição do Galho,AM,3,2024-10-16,Bronze
+363,Vinícius,Gonçalves,mayavargas@example.net,89 6177-4009,1985-08-23,M,Nunes de Cunha,AM,2,2026-03-03,Platinum
+364,Clara,Cavalcante,ravi-lucca75@example.org,27 9673-3622,1987-06-19,M,Ramos de Marques,PR,1,2026-05-01,Ouro
+365,Caroline,Guerra,cgoncalves@example.net,28 0503-6293,1957-05-13,F,Fernandes Grande,SP,1,2024-07-15,Ouro
+366,Isabelly,Rezende,gmoraes@example.com,24 8967-7074,1979-01-24,M,Aparecida da Praia,CE,4,2024-09-16,Bronze
+367,Maria Luiza,Andrade,afogaca@example.org,86 8548-9347,1968-09-27,F,Mendonça,AP,1,2025-09-12,Prata
+368,Maria Fernanda,Martins,isaquefonseca@example.com,74 5794-1032,2003-01-01,F,Cunha de Pinto,SP,3,2025-02-05,Ouro
+369,Rhavi,Câmara,viniciuscampos@example.net,+55 73 7273-3952,1965-08-23,F,Melo,RR,1,2025-06-29,Prata
+370,Maria Julia,Cunha,da-costalucas@example.net,+55 93 9583-8754,1987-09-03,M,Costela Grande,RJ,5,2025-11-19,Platinum
+371,Eduarda,Machado,joao-lucas79@example.org,74 3471-1569,1962-07-13,M,Sousa de Silveira,PE,2,2025-08-24,Bronze
+372,Pedro Henrique,Casa Grande,juliasantos@example.org,+55 28 8322-7520,2004-03-22,M,Viana de Minas,RJ,5,2024-07-18,Prata
+373,João Guilherme,Gonçalves,pedro19@example.com,48 1848-0541,1997-04-06,F,Teixeira,AL,4,2025-11-04,Platinum
+374,Vitor Gabriel,Melo,renanaraujo@example.org,73 0358-0611,1974-06-24,F,Campos Verde,MS,2,2025-12-31,Ouro
+375,Bryan,Carvalho,moraesbruno@example.net,+55 87 4786-0476,1986-09-08,F,Fernandes,RN,3,2024-02-22,Bronze
+376,Mateus,Moraes,teixeirahadassa@example.com,+55 38 9485-0739,1987-06-11,M,Siqueira,SC,2,2025-09-20,Prata
+377,Kaique,Sampaio,tpacheco@example.com,97 7116-6869,1955-09-04,M,Pires,PB,1,2026-03-26,Ouro
+378,Sofia,Jesus,limakaique@example.org,+55 73 6350-3758,1992-06-06,F,Vieira do Oeste,SE,4,2023-11-03,Platinum
+379,Marcela,Fernandes,gomesagatha@example.net,15 8469-6911,1963-11-07,F,Câmara,MG,4,2024-04-22,Ouro
+380,Alana,Cunha,oliver09@example.org,+55 11 8591-1804,1969-08-11,M,Machado de Duarte,RJ,5,2024-06-22,Bronze
+381,Catarina,Cavalcanti,theocasa-grande@example.com,19 0552-5735,1975-08-18,F,Almeida da Praia,BA,4,2024-12-08,Bronze
+382,Brayan,Melo,davi-luizferreira@example.net,+55 96 0449-5127,1968-04-09,F,Montenegro de Cassiano,MT,5,2026-03-22,Platinum
+383,Davi Luiz,Fogaça,ateixeira@example.org,65 4251-6626,1996-07-28,F,Peixoto das Pedras,TO,1,2026-04-14,Prata
+384,Nathan,Teixeira,almeidajoaquim@example.net,+55 15 2188-1766,1980-03-30,F,Mendonça,SP,5,2026-02-26,Bronze
+385,Luan,Carvalho,ksilva@example.net,53 7074-1754,2000-04-05,M,Leão Alegre,MT,2,2026-06-19,Ouro
+386,Guilherme,Martins,thomas54@example.net,96 7543-2089,1959-03-27,M,Gomes,MS,2,2025-04-27,Ouro
+387,Miguel,Pereira,oliveirapietro@example.com,+55 64 6833-8674,1962-10-20,F,Cunha,AL,3,2025-09-29,Bronze
+388,Ana Luiza,Cassiano,laurabarros@example.org,92 0937-4635,1994-12-17,M,Sampaio,AP,4,2024-05-14,Platinum
+389,Raquel,Moraes,casa-grandeisis@example.net,+55 32 6516-4771,2008-04-22,M,Alves,AC,2,2026-07-20,Platinum
+390,Isaque,Silva,yalbuquerque@example.com,11 9753-3343,1955-11-26,M,Leão,MS,5,2026-04-16,Ouro
+391,Antonella,Fogaça,smoreira@example.net,95 1882-7716,1964-04-17,M,Teixeira,SE,4,2023-11-24,Bronze
+392,Noah,Vargas,fonsecamanuela@example.com,+55 82 2960-1551,1957-05-09,F,Câmara,SE,1,2023-08-25,Platinum
+393,Melina,Cavalcanti,oliviada-luz@example.org,+55 91 7432-7324,1987-05-31,M,Duarte,MT,3,2024-09-17,Platinum
+394,Juan,Rezende,bcorreia@example.com,+55 53 6165-4609,1967-02-11,F,Fernandes,MT,4,2026-06-20,Ouro
+395,Heloisa,Lopes,matheuscosta@example.net,+55 22 0076-9385,1957-05-08,M,Araújo,MA,4,2025-02-03,Bronze
+396,Nathan,Melo,kda-rocha@example.org,+55 64 5555-3876,1972-04-06,F,Borges do Sul,BA,2,2025-02-22,Platinum
+397,Ana Júlia,Camargo,dmachado@example.org,+55 82 0410-9282,1992-10-28,F,Machado de Nascimento,AM,1,2023-08-16,Platinum
+398,Luísa,Ferreira,macedomathias@example.net,+55 45 4691-7599,1989-04-14,M,Moura das Pedras,MT,2,2026-04-11,Platinum
+399,Guilherme,Garcia,melissadas-neves@example.org,16 3851-7410,2006-06-22,F,Monteiro,MT,5,2023-11-07,Bronze
+400,Ayla,Guerra,jesusgael@example.org,+55 63 9903-7338,1975-11-02,F,Duarte,PE,3,2026-03-12,Ouro
+401,Arthur Miguel,Silva,joaquimnovais@example.com,61 7471-7885,1982-06-22,M,Macedo do Campo,SP,3,2024-02-10,Prata
+402,Caleb,Fogaça,caldeiradavi-lucca@example.org,65 7112-0594,1963-10-22,M,Machado,AC,5,2025-09-12,Bronze
+403,Melissa,da Luz,samuelcunha@example.net,+55 37 6124-4937,1983-04-23,M,Freitas,AC,3,2024-05-27,Ouro
+404,Zoe,Freitas,rfernandes@example.net,+55 27 9370-7071,2005-02-25,M,Almeida,AP,2,2023-11-14,Bronze
+405,Yago,Azevedo,das-nevesstephany@example.org,+55 24 3375-5797,1958-06-27,M,da Rosa do Galho,DF,3,2024-04-24,Prata
+406,Daniela,Castro,emanuellaborges@example.org,+55 99 9521-6202,1987-07-07,M,Barbosa de Albuquerque,RJ,5,2026-03-31,Prata
+407,Arthur,Gonçalves,yago45@example.net,+55 81 0230-2054,2000-12-13,M,Santos,TO,2,2024-08-25,Platinum
+408,Luigi,Castro,ayllacunha@example.net,31 8425-3128,1995-01-26,F,Fernandes da Mata,RR,5,2025-05-10,Platinum
+409,Hadassa,Barbosa,vargasmariane@example.org,+55 83 5839-9353,1992-08-11,F,Novais,RR,3,2025-01-01,Prata
+410,Guilherme,Leão,cbrito@example.net,32 4377-1604,1963-11-01,F,Pereira,MA,1,2024-12-27,Platinum
+411,Davi Lucca,Teixeira,sarah95@example.com,+55 48 0099-0578,1980-11-12,F,Caldeira,MS,3,2023-12-01,Ouro
+412,Davi Luiz,Rocha,egomes@example.org,+55 42 8759-3184,1988-01-24,M,Pastor Paulista,MT,3,2024-01-30,Bronze
+413,Cecília,Souza,thiagonascimento@example.com,+55 99 8917-0373,1974-11-08,F,Novaes,PI,4,2024-12-12,Platinum
+414,Caleb,Duarte,tgoncalves@example.net,+55 47 2510-9991,1964-05-04,M,Montenegro,SP,1,2025-06-13,Ouro
+415,Rael,Porto,nnogueira@example.org,+55 46 0986-0568,2008-05-09,F,Farias,AL,1,2026-08-08,Bronze
+416,Ryan,Pimenta,vitoriada-mata@example.net,55 3445-0024,2000-12-12,F,Vasconcelos Verde,PE,4,2024-11-25,Bronze
+417,Vicente,Albuquerque,mazevedo@example.com,95 9604-1113,1987-03-19,F,Nunes dos Dourados,AM,5,2026-02-03,Prata
+418,Maysa,Cassiano,vitor-hugo28@example.com,19 7957-7242,1956-02-15,F,Silva,DF,5,2026-01-06,Platinum
+419,Brayan,Duarte,ugoncalves@example.net,+55 77 7283-1387,2006-05-01,M,Borges,RO,1,2025-08-15,Platinum
+420,Benjamim,Costela,irezende@example.org,24 2835-4457,1975-12-07,M,Cardoso,AP,3,2024-01-20,Bronze
+421,Aylla,Casa Grande,hadassa46@example.org,+55 16 1138-1458,1962-08-15,M,da Rocha Paulista,MG,1,2025-08-10,Prata
+422,Ana Clara,Costela,saraujo@example.org,51 5421-4919,1997-12-20,F,da Luz,ES,4,2025-07-14,Prata
+423,Danilo,Rodrigues,tcassiano@example.com,+55 11 6642-0091,1994-12-06,F,Sampaio,MT,3,2025-01-09,Ouro
+424,Luan,Duarte,heitorrodrigues@example.org,0500 366 8545,2004-01-20,F,Ferreira das Flores,PI,4,2023-08-18,Ouro
+425,Maya,Oliveira,bianca56@example.com,46 7774-4678,1976-05-08,M,da Mata,RS,3,2026-06-19,Bronze
+426,Giovanna,Moura,fonsecaana-laura@example.com,+55 82 5008-0031,1955-11-26,F,da Cruz,AP,1,2026-06-01,Platinum
+427,Caio,Montenegro,sophiacassiano@example.net,17 0920-9116,1993-08-21,F,Gomes de da Mota,RN,3,2023-12-26,Prata
+428,Guilherme,da Mota,manuela34@example.org,37 8385-7306,1999-12-02,F,Pereira,PB,1,2024-09-12,Prata
+429,Luiz Felipe,Melo,vitor16@example.org,84 9854-3023,2001-05-25,F,Rezende,GO,3,2026-03-31,Platinum
+430,Rael,Sousa,joaquim90@example.org,73 4189-0518,1990-09-24,M,Araújo do Oeste,MT,5,2025-10-15,Bronze
+431,Lucca,Fogaça,anna-lizabreu@example.com,44 1456-3516,1970-07-16,F,da Mata Grande,RJ,5,2024-08-30,Platinum
+432,Ravy,Pacheco,martinsdanilo@example.org,37 0318-9823,1965-02-06,F,da Costa de Aparecida,AC,2,2025-06-13,Bronze
+433,Luiz Otávio,Teixeira,amandacarvalho@example.net,66 2570-5898,1973-09-24,F,Ferreira de Goiás,DF,5,2024-12-08,Ouro
+434,Allana,Melo,isabellyduarte@example.net,+55 89 0573-1374,1990-05-31,M,da Mota das Flores,GO,3,2026-04-26,Ouro
+435,Luísa,Rodrigues,davi-luiznunes@example.net,+55 45 9733-3406,1969-01-23,M,Campos do Norte,RS,2,2025-08-21,Ouro
+436,Laís,Lima,clarice90@example.com,+55 83 6614-8424,1978-01-08,F,da Mota,PR,2,2024-06-22,Prata
+437,Gael Henrique,Camargo,novaisotto@example.net,63 1002-4472,2008-01-05,M,Caldeira,MA,2,2024-01-14,Bronze
+438,Léo,Silveira,vinicius28@example.org,32 2285-9211,1964-07-23,F,Nogueira Grande,SE,1,2024-07-03,Bronze
+439,Joaquim,Albuquerque,maria-ceciliagoncalves@example.net,61 0786-3237,1962-05-04,F,Mendonça,AM,5,2023-12-23,Prata
+440,Caleb,Novais,vinicius23@example.net,+55 32 1850-9944,1989-09-15,F,da Conceição de Costa,AP,2,2024-03-05,Prata
+441,Lívia,Lima,esantos@example.net,51 7057-0395,1979-02-12,M,Garcia,MG,5,2024-11-28,Prata
+442,Emilly,da Conceição,azevedolevi@example.com,27 1525-1704,1993-02-09,F,Costela,DF,1,2024-12-31,Platinum
+443,Felipe,Rodrigues,isabelamonteiro@example.com,+55 48 7152-7460,1983-03-20,F,Teixeira do Amparo,AM,2,2025-09-20,Platinum
+444,Gabriela,Mendonça,araujoluiz-gustavo@example.org,32 4249-5364,1960-06-25,F,Lima do Amparo,SC,4,2024-03-17,Prata
+445,Davi Lucca,Fernandes,novaesdiogo@example.com,+55 35 6203-3495,1991-10-26,M,Brito de Lopes,PI,3,2025-04-30,Platinum
+446,Davi Lucas,Rezende,moreiraenzo-gabriel@example.org,68 1800-0186,2007-12-04,M,Lopes,CE,3,2025-04-25,Platinum
+447,Bianca,Oliveira,cassianomariane@example.com,44 5358-5099,1981-11-03,F,Abreu dos Dourados,SP,3,2025-10-14,Platinum
+448,Luiza,Andrade,maysaleao@example.org,66 9958-2332,1971-04-14,F,Campos do Oeste,RR,2,2024-09-26,Prata
+449,Nicole,Gonçalves,otaviocamargo@example.com,43 7649-6000,1998-05-07,M,Novaes de Brito,SC,3,2025-04-06,Bronze
+450,Joana,Caldeira,caio33@example.net,61 6224-0216,1966-12-08,F,Guerra dos Dourados,RN,3,2026-05-11,Bronze
+451,Anthony,Araújo,joana51@example.org,+55 83 4168-2788,1975-11-23,M,Albuquerque Paulista,SP,3,2026-04-09,Bronze
+452,Mateus,Aragão,ggomes@example.org,+55 71 3442-6428,2001-08-07,M,Vargas Verde,AL,3,2023-10-24,Platinum
+453,Luiz Felipe,Pinto,qcampos@example.net,+55 27 2801-7125,1999-11-01,M,Nascimento,SE,4,2026-06-19,Bronze
+454,Maria Alice,Duarte,fonsecaluisa@example.com,91 7034-8050,1967-07-29,M,Pires,SE,4,2025-11-10,Ouro
+455,Cauã,Fernandes,duartehenrique@example.com,11 2901-6642,1979-08-18,M,Teixeira da Serra,MG,4,2025-02-08,Bronze
+456,Enrico,Aparecida,sousaraul@example.com,61 0315-5407,1993-07-18,F,Andrade,MG,5,2024-06-07,Ouro
+457,Ana Luiza,Rezende,inovais@example.org,+55 41 4729-5125,1986-07-27,M,Nunes,AL,4,2024-08-12,Bronze
+458,Isabela,Cavalcanti,vargasrodrigo@example.net,+55 86 5989-2669,1965-03-13,F,Dias,SE,2,2025-03-07,Bronze
+459,Maitê,Vargas,elisacamargo@example.org,+55 89 3062-2169,1994-04-28,F,Moura,PR,1,2025-08-22,Ouro
+460,Pietra,Pires,vicente83@example.org,49 4115-0056,1998-02-02,M,Peixoto de Goiás,PR,2,2026-05-24,Bronze
+461,Ana Clara,Vasconcelos,valentim43@example.org,+55 63 1345-2958,1967-05-02,F,Lopes do Campo,AL,4,2026-01-03,Prata
+462,Heloisa,Freitas,sousaluiz-otavio@example.org,31 1775-0038,2007-06-14,F,Aragão,PB,4,2026-01-25,Bronze
+463,Caroline,da Cunha,yazevedo@example.net,+55 49 1261-2445,1993-05-27,M,Ferreira,PI,1,2023-10-26,Ouro
+464,Isabelly,Campos,oabreu@example.com,49 9316-3042,1992-03-05,M,Nascimento,RN,2,2024-10-15,Platinum
+465,Davi Miguel,Pacheco,benjamimbarros@example.com,+55 16 0431-9237,1966-06-16,M,Oliveira da Mata,AL,3,2024-12-21,Prata
+466,Thomas,Cirino,ecassiano@example.org,+55 71 0988-7912,1961-02-03,F,Sales da Praia,PB,1,2025-05-08,Bronze
+467,Brayan,Mendonça,carvalhomaria-luiza@example.com,67 9780-3242,1999-10-11,M,Borges de Azevedo,BA,4,2026-05-08,Platinum
+468,Isabella,Aparecida,barbara67@example.org,16 5947-2076,2007-01-01,M,Farias Grande,SE,1,2026-06-14,Platinum
+469,Clarice,da Luz,mda-costa@example.org,46 1761-2854,1996-03-31,M,Sampaio Alegre,DF,5,2025-06-13,Prata
+470,Vinícius,Leão,alice79@example.org,93 5893-5290,1974-09-13,M,Aragão,MA,3,2026-02-21,Platinum
+471,Léo,Moura,sasofia@example.net,0800 683 4471,1958-06-19,M,Nogueira das Flores,PA,5,2024-04-27,Ouro
+472,João Gabriel,Pacheco,iduarte@example.com,16 8621-8303,2001-12-10,M,da Rocha,RO,5,2024-10-01,Platinum
+473,Arthur Gabriel,Lopes,juan52@example.com,93 1495-2400,1957-12-26,M,Moura de Montenegro,RJ,1,2023-08-16,Ouro
+474,Bento,da Rocha,ycamargo@example.net,45 5417-2123,1966-06-26,M,Azevedo de Machado,RR,5,2025-02-27,Bronze
+475,Maria Vitória,Ferreira,yanandrade@example.org,+55 33 4460-7629,1972-03-04,F,Leão,AC,4,2024-01-06,Bronze
+476,Eduardo,Borges,vitoria62@example.net,+55 94 3016-4238,2001-04-28,F,Nogueira de da Rosa,BA,3,2025-02-19,Ouro
+477,Aylla,Nunes,zrodrigues@example.com,+55 89 1037-0290,1972-02-14,M,Borges do Sul,PE,3,2024-05-21,Bronze
+478,Hellena,Araújo,snunes@example.org,41 6409-1295,1981-08-24,F,Cardoso,SC,2,2026-05-30,Bronze
+479,Anthony,Camargo,da-cruzsophie@example.com,51 7885-6246,1993-10-26,F,Cardoso,TO,2,2026-01-22,Bronze
+480,Raul,Souza,barrosisabel@example.org,+55 11 6519-8713,1998-07-20,F,Silva de Moura,PE,5,2026-07-06,Ouro
+481,Vitor Gabriel,Cardoso,castroana-carolina@example.com,+55 15 2445-4339,1989-01-14,M,Nogueira do Campo,AM,4,2025-10-19,Platinum
+482,Kamilly,Pereira,leoda-rocha@example.org,98 8996-1761,1982-02-12,M,da Mota do Campo,PA,2,2026-02-26,Bronze
+483,Gustavo,Carvalho,eda-paz@example.org,11 4351-9490,1987-07-04,F,Montenegro,AC,1,2025-10-30,Ouro
+484,Gabrielly,Gonçalves,kmendes@example.org,88 4501-7719,1997-12-21,M,Pires do Campo,RN,1,2025-04-23,Prata
+485,Pedro Henrique,Lopes,nataliacassiano@example.com,+55 61 9677-7373,1998-10-01,M,Camargo,RJ,3,2025-12-29,Ouro
+486,Ana Julia,da Cunha,theodoro85@example.net,+55 17 7479-5843,1996-03-14,F,Câmara da Serra,RR,5,2024-01-23,Platinum
+487,Aurora,Martins,zsouza@example.org,96 3762-7422,1988-07-28,F,Silveira,MA,1,2025-03-27,Prata
+488,Elisa,Mendes,jesusnicole@example.org,28 7632-2343,1973-10-16,F,Sá,SP,3,2025-03-06,Bronze
+489,Ayla,Moura,felipe83@example.com,11 8531-9892,1977-01-18,F,Casa Grande Grande,MT,3,2025-03-03,Bronze
+490,Cecilia,Peixoto,fariasbrenda@example.org,+55 71 2564-6944,1984-11-01,F,da Paz,SE,4,2025-03-16,Platinum
+491,Mariane,Rodrigues,raraujo@example.com,+55 18 7076-1520,1974-06-02,F,Sousa do Sul,SP,4,2025-07-12,Ouro
+492,Luiza,Rocha,thiagocavalcanti@example.net,+55 32 1415-1695,1962-03-27,M,Andrade do Campo,RJ,4,2025-09-17,Platinum
+493,Milena,da Mota,uferreira@example.com,19 1231-2489,1971-06-10,F,da Luz Verde,ES,5,2025-06-27,Ouro
+494,Cecília,Teixeira,britopietro@example.com,69 5362-6538,1987-08-12,M,Porto,PI,4,2025-01-02,Bronze
+495,Marcela,Azevedo,costelabrayan@example.org,87 2126-7029,1989-01-31,F,da Rosa do Amparo,RS,5,2024-01-26,Prata
+496,Benicio,Martins,da-conceicaoarthur-miguel@example.net,+55 68 9160-3542,2008-01-18,F,Fogaça de Novaes,PI,3,2026-02-13,Bronze
+497,Mariane,Aragão,kcamargo@example.net,+55 91 2097-6510,1991-06-05,M,Garcia,PE,3,2024-06-07,Ouro
+498,Isaque,Sales,vieiradiego@example.net,34 7497-7519,1963-03-01,F,Martins,RO,4,2025-02-03,Platinum
+499,Cecilia,Rios,bentoaparecida@example.com,24 1137-6104,1997-08-10,M,Pires,AM,4,2026-06-29,Ouro
+500,Isaac,Andrade,borgesgabriel@example.org,+55 93 0920-4870,1990-07-16,F,Albuquerque,RS,1,2024-07-02,Ouro
+501,Brayan,Peixoto,da-mataravi-lucca@example.com,+55 44 9707-5111,1961-10-10,F,Moura,RS,3,2026-04-21,Bronze
+502,Vicente,Novaes,goncalvesalicia@example.com,+55 33 5024-2130,1972-02-19,M,Duarte das Pedras,RO,4,2026-08-01,Ouro
+503,Henry,da Rosa,peixotorael@example.com,83 2566-4890,1993-12-10,M,Ferreira,AL,1,2026-07-18,Prata
+504,Maria,Albuquerque,lorenzocassiano@example.com,15 4180-4218,1992-11-11,F,Montenegro dos Dourados,AM,1,2024-01-31,Prata
+505,Maria Helena,da Rosa,pferreira@example.org,22 6760-1637,1978-05-08,M,Cavalcanti do Galho,RO,2,2024-04-30,Ouro
+506,Dante,das Neves,gmacedo@example.net,95 6778-7235,2007-02-14,F,da Rocha,MA,4,2025-12-17,Bronze
+507,Maria Eduarda,Rios,melomiguel@example.com,89 4706-2170,1979-04-28,M,Casa Grande,SE,4,2024-11-03,Ouro
+508,Clara,Brito,mda-rocha@example.org,+55 34 0730-6585,1994-11-21,F,Rios,AP,4,2025-02-22,Bronze
+509,Marcos Vinicius,Lopes,yfonseca@example.org,45 2687-5965,2002-07-03,M,Macedo da Mata,PR,5,2025-04-29,Ouro
+510,Mirella,Gomes,kfogaca@example.org,+55 68 8870-7470,1978-05-08,F,Ferreira Paulista,PE,3,2026-05-25,Ouro
+511,Olívia,Machado,msousa@example.org,+55 32 9740-2004,1974-09-14,M,da Costa de Goiás,PB,1,2025-10-03,Bronze
+512,Hadassa,Sampaio,nicolasoliveira@example.org,45 1418-9495,1985-03-19,M,Almeida,PB,4,2023-09-06,Platinum
+513,Maria Fernanda,Abreu,walbuquerque@example.com,+55 41 1497-8330,1988-06-29,M,da Conceição,RO,3,2024-06-06,Ouro
+514,Mateus,Ribeiro,rda-cruz@example.net,+55 92 3537-2264,1996-01-22,F,Santos do Amparo,AP,2,2025-12-16,Ouro
+515,Maria,Leão,giovannapinto@example.com,55 4761-7063,2005-11-25,F,Freitas,CE,2,2026-03-07,Bronze
+516,Diego,da Cruz,juliaborges@example.org,96 2532-2669,1955-11-23,M,Leão Grande,RN,1,2024-04-21,Platinum
+517,Cauê,Carvalho,aalbuquerque@example.org,74 4203-0027,1989-12-19,M,Santos,RN,4,2024-05-06,Bronze
+518,Benjamin,Barros,erickpinto@example.net,+55 33 5143-0737,1971-12-02,F,Sá de Gomes,MG,3,2024-11-03,Bronze
+519,Yuri,Casa Grande,brayan58@example.org,+55 83 5202-9108,1973-10-11,F,Farias,RJ,3,2025-05-01,Prata
+520,Arthur Gabriel,Teixeira,uda-cruz@example.com,12 5533-0674,1958-08-27,M,Borges,RN,3,2025-09-26,Prata
+521,Julia,Gomes,cavalcantimaria-isis@example.org,45 7234-8987,1995-07-03,M,Barbosa,BA,2,2025-10-10,Prata
+522,Benicio,Silva,ana-liviaduarte@example.org,64 3595-7060,1974-10-18,M,da Costa,RO,4,2025-05-11,Bronze
+523,Thales,Lopes,maria-juliapastor@example.com,18 3459-0716,1989-09-18,F,Guerra Verde,PE,5,2026-02-11,Ouro
+524,Maria Alice,Farias,alvescalebe@example.com,+55 17 5992-1024,1981-01-30,F,Marques,RS,5,2026-01-26,Prata
+525,Pedro Lucas,Pires,eda-conceicao@example.net,27 8458-3096,1978-12-21,M,Rios,AM,1,2024-10-17,Ouro
+526,Otto,Peixoto,aliciarodrigues@example.net,32 3630-6667,1972-09-04,F,Martins,AL,4,2025-09-29,Platinum
+527,Luiz Fernando,da Cruz,stellagomes@example.com,42 2560-2545,1971-09-25,F,Porto de Ramos,SC,5,2024-01-01,Bronze
+528,Matheus,Costela,elisasilva@example.com,33 3879-5298,2002-05-26,M,Moura de Pereira,SP,3,2024-02-27,Bronze
+529,Léo,da Rocha,dteixeira@example.com,+55 15 5443-4326,1962-07-16,F,Leão das Pedras,MA,4,2026-05-05,Ouro
+530,Benjamim,Fonseca,alexia79@example.org,+55 28 9996-6460,1997-09-14,M,Mendonça,AC,5,2024-02-13,Prata
+531,Yan,Cavalcante,emillyalves@example.org,35 7457-4334,1963-10-12,M,Fogaça dos Dourados,SP,4,2024-10-01,Bronze
+532,Alexandre,Cavalcante,mendoncaluiz-miguel@example.net,97 0464-1773,1961-02-10,M,Moura,RS,5,2026-07-17,Prata
+533,Matheus,Moraes,trezende@example.net,95 1458-4368,1985-03-08,F,da Rosa,ES,2,2024-08-28,Prata
+534,Theo,Silva,benicio25@example.net,+55 34 0831-9614,1955-10-20,F,Barros,RO,2,2025-10-04,Ouro
+535,Yago,Santos,monteiromaria-julia@example.org,55 1849-3285,2007-01-10,F,Gonçalves,AL,1,2025-01-09,Ouro
+536,Maria Júlia,Ferreira,aurora89@example.net,+55 47 4212-1188,1995-03-29,M,Fogaça,DF,5,2025-03-04,Ouro
+537,Pedro,Ribeiro,maria-ceciliavargas@example.net,+55 62 0500-8509,2003-11-23,M,Rocha,PE,3,2024-11-11,Bronze
+538,Luan,Casa Grande,barbosadaniela@example.net,+55 73 1385-3418,1962-02-12,M,Fogaça,TO,5,2024-01-22,Prata
+539,Emanuelly,Sampaio,marinamoraes@example.net,+55 43 7738-0317,1971-01-27,M,Cardoso Alegre,MG,5,2023-11-11,Ouro
+540,Yan,Sales,da-motaarthur@example.com,+55 35 1760-2706,1990-06-23,M,Barbosa,TO,1,2024-11-03,Bronze
+541,Emanuelly,Nunes,andradevitor@example.org,+55 44 4770-2012,1971-08-16,M,Cavalcanti,SC,5,2025-10-20,Ouro
+542,Erick,Peixoto,ecarvalho@example.net,22 2342-6900,1987-12-20,M,Fernandes da Prata,PA,5,2025-01-11,Platinum
+543,Benício,Pastor,henry23@example.org,+55 62 7966-1793,1973-04-07,M,Guerra,MT,4,2023-12-04,Ouro
+544,Ryan,Duarte,fariasmaria-isis@example.net,33 4516-3546,1982-09-09,F,Teixeira de Machado,RN,4,2023-11-04,Prata
+545,Olívia,Souza,gmoura@example.net,47 6913-0415,1981-11-14,F,Correia de Marques,TO,3,2024-07-04,Platinum
+546,Fernanda,Nascimento,tmonteiro@example.com,88 6348-4245,2006-08-05,M,Duarte,SC,1,2026-05-08,Prata
+547,Caroline,Casa Grande,pietro19@example.org,11 2349-6362,1987-10-11,F,Viana de Minas,SC,4,2026-06-19,Platinum
+548,Maria Liz,Souza,bsousa@example.com,+55 54 3281-7095,1962-10-11,F,Carvalho,AP,2,2024-02-06,Ouro
+549,Lucca,Macedo,ana-luizada-rosa@example.org,+55 42 8626-1591,1990-12-20,M,Sá de Siqueira,AM,3,2025-08-11,Ouro
+550,Felipe,Azevedo,emanuelly11@example.org,+55 38 0168-9222,2005-01-02,F,Cavalcante da Praia,PB,4,2024-07-23,Prata
+551,Bianca,Duarte,riosantonio@example.org,+55 15 6163-5316,1958-08-07,F,Campos,AP,5,2025-12-26,Bronze
+552,Ana Carolina,da Conceição,maite30@example.net,99 2131-4078,1973-07-20,F,Almeida do Norte,GO,2,2023-10-22,Platinum
+553,Brayan,Teixeira,luiz-otavio30@example.net,65 2917-2069,1956-03-25,M,Pinto,AP,3,2024-11-25,Platinum
+554,Nathan,da Cruz,daviferreira@example.net,11 5074-9041,1994-11-01,M,Cassiano da Prata,PI,2,2025-02-25,Bronze
+555,Fernanda,Vieira,cavalcantiemanuella@example.net,42 6233-9970,1977-03-16,M,da Luz,SC,3,2024-03-18,Platinum
+556,Arthur Gabriel,da Mata,maria-fernandabarros@example.org,71 1969-5818,1968-05-26,F,Santos de da Rocha,RO,2,2026-03-23,Prata
+557,Helena,Rodrigues,aparecidamariane@example.com,15 3383-9817,1980-06-01,F,Mendes,PI,5,2025-05-31,Ouro
+558,Maria Liz,Rodrigues,santosgiovanna@example.net,+55 51 0787-3259,1997-06-01,M,Cirino,SC,2,2023-08-20,Platinum
+559,João Pedro,Aragão,melomarcela@example.org,49 0803-7644,1994-01-09,F,Rocha,PR,4,2023-12-20,Ouro
+560,Isabela,Barros,nascimentoeloah@example.net,+55 32 5643-4802,1982-05-06,F,Rezende do Sul,AP,1,2025-03-01,Bronze
+561,Eloá,da Luz,fariasmariana@example.net,+55 27 0137-2972,2001-08-09,F,Nascimento da Mata,RJ,5,2024-08-07,Platinum
+562,Pedro,Cassiano,antonellacastro@example.org,+55 41 3255-5391,1956-08-24,M,Vasconcelos Alegre,RN,2,2026-05-16,Ouro
+563,Diogo,Martins,isis47@example.net,84 4337-5264,1976-09-21,M,Fogaça,DF,1,2024-03-16,Ouro
+564,Leandro,Garcia,ana-beatriz28@example.net,11 1036-4078,1970-05-06,F,da Cunha,AP,5,2025-12-02,Platinum
+565,Vitor Hugo,Nascimento,zda-cunha@example.org,54 0718-4015,1981-04-19,F,Azevedo de Minas,PI,5,2024-07-03,Bronze
+566,João Felipe,Melo,carlos-eduardocunha@example.com,+55 73 6807-4011,1988-05-03,M,da Mata,AP,4,2024-03-03,Prata
+567,Lara,Novaes,nicolas44@example.net,+55 54 0127-3096,1994-05-02,F,Costela,SE,3,2023-12-22,Platinum
+568,Luana,Pimenta,nmendonca@example.org,35 5280-5633,1972-04-15,F,Sampaio,RO,1,2025-07-19,Platinum
+569,Ágatha,Moreira,luiz-miguelvargas@example.com,93 8335-9886,1974-08-21,M,Rodrigues,MA,5,2025-08-03,Prata
+570,Dom,Castro,kamilly05@example.net,95 9608-8145,1979-12-08,F,Dias,MS,5,2025-01-14,Ouro
+571,Catarina,Gomes,vinicius27@example.org,63 9671-7199,1965-07-25,M,Caldeira,AM,4,2025-11-15,Platinum
+572,Jade,Pastor,sophiacardoso@example.org,35 6390-5104,1982-10-19,F,Barbosa,MT,5,2024-01-22,Bronze
+573,Thales,Teixeira,eloah36@example.org,64 0862-1719,1962-09-28,M,Novais,ES,1,2024-02-28,Platinum
+574,Milena,Fogaça,lborges@example.org,+55 63 6994-2125,1995-05-13,F,Câmara da Mata,MG,3,2025-04-04,Ouro
+575,Lorena,Silveira,daraujo@example.com,63 2556-1338,1970-04-18,M,Ramos,PR,2,2026-05-12,Platinum
+576,José,das Neves,csales@example.net,+55 37 2061-1363,2002-12-23,M,Dias,TO,1,2024-05-02,Bronze
+577,Lívia,Cunha,ian11@example.org,+55 66 8323-2681,1958-07-02,M,Novais de Minas,AC,3,2024-08-09,Platinum
+578,Yasmin,Cardoso,laismartins@example.com,42 9812-8915,1967-05-06,F,Guerra do Sul,AP,2,2025-08-03,Prata
+579,Bárbara,Costela,nicole74@example.org,0300 363 0786,1988-05-13,F,Porto de Cassiano,BA,5,2026-05-20,Ouro
+580,Yasmin,Leão,manuelamachado@example.org,75 0664-8447,1996-04-03,M,Oliveira de Minas,PB,4,2023-12-24,Ouro
+581,Fernando,Rezende,heloisa95@example.net,+55 22 3471-7388,1961-06-12,F,Rios da Serra,RS,5,2025-04-07,Platinum
+582,Ana Vitória,Fogaça,ucamargo@example.org,67 4834-9676,1981-05-05,F,Moura da Mata,AP,4,2026-05-10,Bronze
+583,Helena,Silveira,vdias@example.com,92 9497-1844,1955-12-30,F,Rios de Rodrigues,PB,3,2024-08-02,Bronze
+584,Ísis,Farias,davi-miguel58@example.net,+55 45 8528-5233,1987-06-22,F,Pastor,AC,5,2024-04-08,Ouro
+585,João Lucas,Farias,jose-pedro68@example.net,88 8764-0453,1989-01-12,M,Brito,MS,5,2024-04-08,Platinum
+586,Diego,da Paz,lunasouza@example.net,+55 81 6199-4820,2002-10-09,F,Almeida do Sul,MA,5,2026-01-28,Prata
+587,Rhavi,Nunes,tmoreira@example.com,45 1961-6674,1977-12-07,M,Aparecida,BA,5,2025-10-08,Platinum
+588,Maysa,Nascimento,alexandrecostela@example.com,51 8010-9351,2008-03-15,M,da Costa,PI,5,2026-01-18,Platinum
+589,Rafaela,Pires,oliviaguerra@example.net,79 4473-5722,1978-02-03,M,Sampaio do Campo,RS,2,2024-10-23,Bronze
+590,Fernanda,Moreira,vianathiago@example.com,+55 61 9833-4642,1973-09-12,M,Monteiro,RN,2,2026-06-19,Bronze
+591,Milena,Mendes,da-luzdavi@example.com,+55 16 6899-7185,1965-02-13,F,Montenegro,SP,3,2025-02-27,Platinum
+592,Luara,Rocha,claraabreu@example.org,+55 32 7775-4836,1964-12-24,M,Cavalcante,RJ,4,2024-03-21,Prata
+593,Joaquim,Monteiro,amartins@example.com,+55 44 2010-8154,1972-11-16,F,da Paz,RN,5,2024-09-27,Platinum
+594,Aurora,Carvalho,renanrios@example.net,+55 63 9860-2441,2007-01-30,M,Porto do Campo,MS,2,2024-07-08,Prata
+595,Matheus,Ribeiro,ana-lizfreitas@example.net,+55 62 3465-0706,1959-02-25,F,Garcia do Amparo,RJ,4,2023-12-19,Platinum
+596,Henrique,Guerra,cavalcanteeduardo@example.com,65 4273-3871,1989-01-25,F,Mendes,ES,2,2024-06-23,Platinum
+597,Bernardo,Cardoso,fernandomontenegro@example.net,69 4292-0579,1974-03-12,F,Machado de Goiás,RJ,5,2024-03-05,Ouro
+598,Ana Liz,Camargo,zpires@example.net,+55 46 7566-0001,2000-09-06,F,Gomes da Prata,DF,5,2023-10-23,Platinum
+599,Miguel,Nunes,cunhaaylla@example.net,14 1805-2503,1971-07-13,M,Duarte de Fonseca,RN,2,2025-03-02,Ouro
+600,Lara,Gonçalves,marianevieira@example.net,+55 62 1219-9764,2002-05-10,F,Rezende do Amparo,ES,2,2024-04-13,Ouro
+601,Juan,Albuquerque,uda-mata@example.org,+55 93 9304-7392,2005-03-17,F,Rodrigues do Amparo,RR,2,2024-04-13,Platinum
+602,Bruna,Ribeiro,eduardopereira@example.com,+55 77 7089-5135,1966-02-15,F,da Mota,MS,4,2024-08-12,Ouro
+603,Ana Júlia,Costa,hmartins@example.net,+55 24 7493-8839,1993-04-21,F,Macedo das Pedras,MA,3,2024-06-10,Bronze
+604,Anthony,Cunha,josuenovais@example.com,+55 33 2875-7945,1992-06-23,F,Aparecida,AM,4,2025-02-01,Ouro
+605,Enzo Gabriel,Vargas,jesusjose-miguel@example.net,+55 74 3570-9492,1984-09-08,M,Aragão,MA,3,2024-12-25,Bronze
+606,Cecilia,da Cruz,ryan36@example.net,+55 83 4615-8057,1971-08-01,F,Câmara,RJ,1,2024-08-03,Ouro
+607,João Lucas,Fonseca,cavalcantienzo@example.net,75 6772-5811,1978-12-11,F,Peixoto,PB,3,2025-04-19,Platinum
+608,Zoe,Albuquerque,cassianoluiz-felipe@example.net,0800 820 8187,1964-07-31,M,Aragão da Mata,MS,2,2024-03-17,Ouro
+609,Mariane,das Neves,esa@example.net,+55 84 3481-0727,1991-06-21,F,Oliveira das Flores,MA,2,2025-01-02,Bronze
+610,Ana Vitória,da Rosa,zcaldeira@example.org,73 2784-7558,1985-06-18,M,Melo do Sul,SC,2,2024-10-01,Bronze
+611,João Pedro,Sampaio,mayarocha@example.com,31 9865-6410,1961-10-17,M,Sales da Mata,PE,2,2024-10-08,Bronze
+612,José,Garcia,beatrizvasconcelos@example.net,+55 93 1388-7106,1961-06-04,M,Pacheco,MS,4,2025-02-17,Ouro
+613,Thales,Abreu,liam80@example.net,64 0846-2989,2008-06-28,F,da Mota,MS,1,2025-12-05,Prata
+614,Ana Vitória,Barros,maria-isis36@example.org,12 9763-1512,1996-05-06,M,Gonçalves,DF,5,2025-05-23,Prata
+615,Fernando,Casa Grande,antoniobrito@example.org,+55 65 3430-5630,1997-01-17,F,Souza das Pedras,SC,4,2025-02-27,Platinum
+616,Marcos Vinicius,Borges,erick12@example.com,+55 41 6433-4426,1973-11-22,M,Pimenta Paulista,MS,3,2025-06-29,Ouro
+617,Luiz Henrique,Oliveira,jose-pedrocamara@example.com,34 7843-8851,1974-02-19,F,Moraes,RO,1,2025-09-23,Bronze
+618,Ana Beatriz,Barbosa,mmarques@example.org,+55 54 1030-8452,2006-04-22,M,Andrade,MS,5,2025-11-28,Bronze
+619,Elisa,Casa Grande,dom73@example.com,+55 18 2982-8645,2002-09-17,M,Silva,RJ,4,2025-06-17,Prata
+620,Matheus,Fernandes,evelynribeiro@example.com,+55 81 7059-9438,2003-12-10,M,Monteiro,RN,4,2024-06-10,Platinum
+621,Benício,Silveira,isabela79@example.org,86 9652-3094,2008-03-12,M,Souza do Campo,RN,3,2023-10-18,Bronze
+622,Ravi Lucca,Almeida,joao-miguel47@example.net,14 1120-7653,1959-06-30,M,Cassiano de Minas,RO,3,2023-11-06,Bronze
+623,Ana Laura,Costa,cmachado@example.com,13 3416-2108,1970-05-21,F,Santos,AP,3,2024-01-29,Platinum
+624,Natália,Pacheco,cardosoluiz-otavio@example.org,+55 74 0711-1322,1990-12-26,F,Santos,SC,2,2024-02-24,Platinum
+625,Miguel,Siqueira,sousaisis@example.com,+55 46 5498-9005,1985-01-15,F,Pinto,SE,2,2024-07-03,Bronze
+626,Benicio,Santos,tgoncalves@example.net,+55 32 1757-0785,1979-09-17,F,Novais,RO,2,2026-08-09,Platinum
+627,Anthony,Lopes,cunhathiago@example.org,88 0594-2554,1994-04-23,F,Brito da Serra,TO,2,2025-02-12,Bronze
+628,Enrico,da Mota,lais92@example.org,95 4535-2254,1964-01-24,F,Freitas,MG,3,2026-01-25,Prata
+629,Leandro,Viana,calebe31@example.org,86 1930-3345,1958-07-30,M,Carvalho,CE,5,2024-03-23,Platinum
+630,Catarina,Pires,vitor-gabrielcastro@example.org,+55 88 9743-6467,1957-03-06,F,Leão,SC,5,2024-05-10,Ouro
+631,Paulo,Teixeira,ravi-luccanovais@example.org,38 1427-0866,1983-01-14,M,Rocha de Gomes,DF,4,2025-12-23,Bronze
+632,Yago,da Mota,xviana@example.com,+55 66 9946-3816,1976-08-08,M,Moraes da Serra,RR,2,2025-09-08,Platinum
+633,Isis,Cirino,alicia37@example.com,+55 62 2135-8454,1982-11-14,F,Fernandes Verde,AC,2,2026-06-04,Bronze
+634,Nina,Montenegro,ycasa-grande@example.com,15 9306-3065,2006-03-27,F,Monteiro,MS,4,2024-11-13,Prata
+635,Heitor,da Rosa,gomesemanuella@example.com,67 9705-8056,2006-08-29,F,Guerra,AL,3,2023-12-07,Ouro
+636,Davi Lucca,Caldeira,maria-eduarda14@example.org,+55 49 5715-5993,1996-04-02,F,Martins,PI,5,2025-08-21,Bronze
+637,Eduarda,Pacheco,bvasconcelos@example.org,+55 77 3960-6626,1957-12-07,F,Siqueira,CE,3,2024-02-25,Prata
+638,Maria Luiza,Ferreira,ana-julia15@example.org,+55 95 6536-0816,2002-11-26,M,Rezende,PA,1,2024-07-21,Platinum
+639,Luiz Gustavo,da Rocha,souzaluan@example.net,+55 33 2747-0000,1968-11-23,F,da Paz do Oeste,PE,2,2025-12-23,Platinum
+640,Carlos Eduardo,Abreu,ifarias@example.org,46 8538-3141,1999-10-12,F,Aparecida Alegre,PR,1,2025-05-21,Ouro
+641,Caio,Mendonça,marcelarocha@example.com,27 8264-8939,1991-12-11,F,Cardoso das Flores,RN,5,2025-05-08,Prata
+642,Camila,Rezende,xduarte@example.com,12 5913-2652,1981-12-05,M,da Rocha das Flores,MA,2,2025-04-03,Platinum
+643,Maria Clara,Moreira,eloa35@example.com,64 4725-9785,1960-02-23,M,Rios Paulista,PR,4,2026-07-31,Ouro
+644,Stella,da Paz,cunhabenjamim@example.org,+55 68 2946-1451,1994-04-13,F,Martins,DF,5,2024-12-08,Platinum
+645,Kevin,Farias,joseda-cruz@example.net,37 0037-9609,1959-11-14,M,Brito,RJ,2,2025-08-07,Bronze
+646,Agatha,da Luz,sousarebeca@example.org,+55 34 1342-1886,1977-11-06,F,Moreira,ES,5,2024-10-27,Ouro
+647,Guilherme,da Cunha,davi-lucas73@example.com,74 5260-5708,1982-06-14,M,Gonçalves das Flores,AL,5,2024-08-23,Bronze
+648,Luísa,da Rocha,lucas-gabrielaragao@example.net,+55 89 1161-8460,1993-06-12,M,Oliveira do Amparo,MG,5,2025-04-12,Prata
+649,Caroline,Ramos,oliveirasophie@example.org,54 4397-7126,1972-02-03,M,Souza,PI,2,2024-06-04,Ouro
+650,Olívia,Jesus,freitashellena@example.org,+55 21 6866-9791,1983-01-22,F,Jesus,AC,1,2026-07-02,Prata
+651,Augusto,Guerra,dantenascimento@example.com,46 5418-6676,1970-11-11,F,Novaes dos Dourados,AC,1,2023-09-20,Platinum
+652,João Felipe,Mendonça,josue09@example.org,37 6176-9902,1973-07-14,M,da Cruz da Praia,AP,4,2025-11-30,Prata
+653,Ana Carolina,da Rosa,imacedo@example.net,13 8466-1446,1967-11-22,F,Sousa,AC,4,2024-03-19,Bronze
+654,Paulo,Borges,carvalhoenrico@example.org,91 5963-7573,1970-08-14,F,da Cunha,RJ,3,2025-04-05,Bronze
+655,Cecilia,Castro,vargaslivia@example.net,64 0532-7355,1996-02-29,F,da Paz de Rodrigues,PB,3,2026-01-02,Bronze
+656,Olívia,Andrade,abarbosa@example.net,0500 825 0584,1992-12-17,M,Duarte da Mata,RR,5,2023-08-16,Bronze
+657,Diogo,Campos,joaocosta@example.org,63 1010-6070,1998-09-09,M,da Paz,GO,4,2024-02-15,Ouro
+658,Kamilly,Casa Grande,acastro@example.net,+55 82 1586-4153,1984-03-15,M,Nogueira das Flores,RN,5,2023-12-24,Bronze
+659,Larissa,Rezende,freitasfelipe@example.net,+55 33 3504-3392,1962-09-17,M,Alves da Prata,AC,4,2024-08-10,Bronze
+660,Davi Miguel,da Mota,davi-lucca78@example.org,31 9326-5128,1965-03-29,F,Ribeiro do Galho,AP,4,2025-05-28,Prata
+661,Julia,Farias,caua93@example.net,73 0967-9955,1988-04-07,M,Montenegro de Macedo,RR,4,2025-11-08,Ouro
+662,Henrique,Duarte,rodrigo14@example.net,82 8942-4919,1975-06-21,F,Sampaio,MS,4,2026-03-11,Platinum
+663,Gabrielly,Sampaio,omonteiro@example.net,+55 15 6435-7683,1978-01-08,F,Fonseca do Amparo,MA,1,2024-06-10,Prata
+664,Apollo,Aparecida,juliaribeiro@example.com,65 3329-6792,1966-03-24,F,Pinto de Minas,RR,1,2026-06-12,Prata
+665,Laura,Guerra,gazevedo@example.org,+55 45 5247-6563,2003-11-21,F,Brito de Pimenta,RR,5,2025-01-29,Prata
+666,Yuri,Nunes,goncalvesanthony-gabriel@example.net,+55 33 0396-6981,1978-08-21,M,Nascimento,PR,1,2025-02-21,Bronze
+667,Sara,da Cruz,rdas-neves@example.com,75 3428-9788,1997-06-14,F,Vieira do Galho,SC,4,2024-05-31,Platinum
+668,Emanuel,Vieira,pedro-lucascosta@example.net,+55 97 8338-3776,1993-05-20,F,Macedo,AL,2,2023-09-09,Prata
+669,Isadora,Fernandes,frocha@example.com,+55 54 1226-7888,1999-09-02,F,Gonçalves do Norte,AL,3,2025-07-22,Prata
+670,Calebe,Peixoto,matheus90@example.net,47 9537-6588,1974-12-03,F,Mendonça Verde,MT,2,2024-10-01,Bronze
+671,Ravy,Fogaça,souzamaria-flor@example.net,+55 65 0974-3962,1958-04-12,M,Novais de Castro,MA,4,2024-11-19,Bronze
+672,Ana Júlia,Correia,jose32@example.com,45 9198-5956,2001-10-09,M,Pacheco,TO,2,2024-07-02,Bronze
+673,Bárbara,Borges,jose-pedro92@example.org,63 1767-7956,2000-03-11,M,Sá das Pedras,TO,5,2025-05-07,Bronze
+674,Rafael,Leão,gmoreira@example.org,85 7562-2692,1961-09-06,F,Cassiano de das Neves,AP,5,2024-08-27,Bronze
+675,Henry Gabriel,Peixoto,sabrina86@example.org,+55 73 9146-8134,1980-03-16,M,Melo de Goiás,AM,1,2023-09-24,Platinum
+676,Allana,Pastor,pachecorael@example.net,12 1481-4067,1990-09-12,F,Sousa,DF,2,2023-12-16,Prata
+677,José Miguel,Almeida,valentimda-luz@example.com,77 8189-4902,2000-12-31,M,Nascimento de da Costa,RS,2,2024-02-17,Ouro
+678,Luigi,Cavalcante,alvesmanuella@example.org,13 9663-9917,1958-08-24,M,Novais da Praia,MG,5,2023-12-09,Ouro
+679,Ana Júlia,da Mata,carolinacorreia@example.com,95 3958-7272,1958-11-14,F,Borges de Andrade,DF,2,2024-03-16,Ouro
+680,Mariana,da Cunha,lara33@example.net,0300 341 2107,1998-12-07,M,Sales de da Cunha,PE,5,2025-10-13,Prata
+681,Gustavo Henrique,da Costa,aurora70@example.org,+55 33 8733-9853,1995-12-09,F,Novaes das Pedras,ES,3,2023-12-30,Ouro
+682,Benjamin,Vieira,borgesjosue@example.com,51 5373-8181,1992-03-14,M,Castro de Fogaça,AP,5,2025-02-08,Prata
+683,Mariana,Gomes,ilima@example.net,+55 49 8840-0854,1996-01-23,F,Melo de Costa,RS,5,2025-01-18,Platinum
+684,Luísa,Guerra,luiz-otaviooliveira@example.com,74 4333-4573,2006-05-12,M,Moreira Paulista,RN,3,2024-02-05,Platinum
+685,Sara,Silva,maria-juliafreitas@example.org,+55 62 3936-6928,1964-10-14,F,Souza,MT,4,2026-02-26,Platinum
+686,Gael,Cassiano,agathada-cruz@example.net,+55 85 8262-2812,1983-01-03,M,Aparecida da Prata,RJ,3,2024-12-13,Platinum
+687,Ana Beatriz,Rios,sda-rosa@example.net,96 2842-2840,1956-01-18,M,Marques Grande,MS,5,2025-10-01,Platinum
+688,Benjamim,Jesus,hpacheco@example.org,+55 16 1332-1681,1961-12-01,M,Abreu,DF,2,2024-05-13,Ouro
+689,Alana,Fogaça,pcorreia@example.com,17 3606-2404,1978-11-27,M,Barros dos Dourados,MG,4,2024-04-22,Bronze
+690,Davi Luiz,Farias,ian82@example.org,+55 27 0466-3802,1957-07-28,F,Porto,PE,4,2025-01-04,Prata
+691,Murilo,Cirino,malbuquerque@example.net,+55 54 5232-5538,1986-12-17,F,Pereira da Praia,TO,2,2024-11-19,Ouro
+692,Rafael,Pimenta,eloaoliveira@example.com,+55 35 8795-0027,1966-05-31,M,Abreu de Goiás,SC,3,2026-03-02,Bronze
+693,Luiz Fernando,Moreira,davi-lucasmonteiro@example.org,87 0298-6864,1971-04-23,F,Andrade,MS,3,2025-11-23,Bronze
+694,Valentina,Pacheco,mateuspeixoto@example.net,+55 32 1112-8763,1995-09-27,M,Jesus,SE,1,2023-08-11,Ouro
+695,João Lucas,Pacheco,ysilva@example.net,74 9785-6370,1975-03-05,F,Garcia,ES,5,2025-01-12,Bronze
+696,Mariah,da Paz,tguerra@example.net,+55 46 5310-1817,1972-09-01,M,Nogueira de Rios,RR,2,2025-08-06,Prata
+697,Ísis,Borges,rebecamelo@example.net,27 9049-3812,1979-06-01,F,Casa Grande de Costela,RR,2,2024-06-20,Ouro
+698,Eduardo,Machado,macedodavi-lucas@example.org,+55 13 8741-9528,1968-05-02,F,Siqueira,RJ,1,2025-11-07,Prata
+699,Nathan,das Neves,julia33@example.net,+55 35 9893-3870,1968-02-14,M,da Rosa do Norte,MT,1,2026-05-19,Platinum
+700,Maria,Machado,maria-sophia83@example.com,54 9941-9489,1978-10-16,M,Novais do Campo,GO,5,2025-10-26,Prata
+701,Maria,Leão,da-cruzoliver@example.org,15 4479-2548,1978-02-26,F,da Luz da Mata,AM,2,2024-02-18,Ouro
+702,Emanuel,Fernandes,freitasana-julia@example.net,+55 15 3886-0118,1963-08-05,F,Camargo,MT,4,2024-09-12,Platinum
+703,Isabela,Pereira,vinicius94@example.org,62 9856-7758,1983-01-27,F,Silveira de da Costa,MT,3,2026-01-11,Ouro
+704,Maria Flor,Farias,xgomes@example.org,68 9189-2520,1956-03-25,F,Freitas,BA,5,2024-12-21,Platinum
+705,Allana,Dias,bpacheco@example.com,+55 54 4387-4036,1997-11-20,F,Jesus,PE,1,2025-04-26,Platinum
+706,Letícia,Moura,hda-cruz@example.com,+55 63 4820-7872,1971-03-28,F,da Cruz Alegre,MA,2,2024-06-09,Ouro
+707,Maria Alice,Araújo,maria-liz61@example.com,+55 33 8228-3222,1997-08-17,F,Carvalho,DF,4,2024-02-27,Bronze
+708,Gustavo,Marques,ccirino@example.org,+55 34 9543-1707,1985-09-01,M,Castro,ES,2,2025-11-24,Bronze
+709,Diego,Cunha,ryanleao@example.net,+55 35 8564-9161,2001-10-23,F,Câmara,MS,5,2024-12-23,Platinum
+710,Kaique,Marques,allana36@example.net,75 4881-2086,1993-08-08,F,da Cruz do Norte,TO,2,2026-07-02,Prata
+711,Leandro,Barros,marquesisaac@example.org,19 9706-3619,1974-11-29,F,Novaes do Norte,AM,2,2023-12-30,Platinum
+712,Gabriela,Rodrigues,julia42@example.com,38 9190-6918,1969-01-28,M,Barros Alegre,PA,4,2024-04-27,Ouro
+713,Clara,Farias,jlopes@example.com,+55 61 0198-3812,1980-06-10,F,Pastor da Prata,SE,4,2025-12-20,Platinum
+714,Lucas Gabriel,Pacheco,azevedoana-livia@example.net,+55 65 7044-7220,1999-08-12,F,Fogaça,RO,2,2025-08-22,Ouro
+715,Manuella,Leão,thiagoda-conceicao@example.org,24 5575-9526,1977-04-07,M,Porto,TO,2,2025-06-17,Platinum
+716,Melissa,Leão,maria-liz34@example.net,+55 12 3073-8755,1989-10-12,M,Campos,GO,5,2026-03-23,Bronze
+717,Hadassa,Souza,joao-lucas32@example.org,68 4046-5606,1996-12-17,M,Melo,MG,1,2024-04-21,Bronze
+718,João Gabriel,Dias,emanuel52@example.org,12 1612-9739,1971-03-07,M,Novaes,AP,4,2023-10-09,Prata
+719,Mariana,Vieira,cavalcantepedro@example.com,+55 83 0652-8015,1967-10-02,M,Casa Grande de Teixeira,PE,1,2024-04-16,Prata
+720,Alana,Barbosa,xaraujo@example.com,+55 77 6274-3023,1964-01-18,M,Pires de Martins,AM,2,2025-10-24,Platinum
+721,Pedro Henrique,Fogaça,camargomaria-julia@example.net,47 8753-8302,2000-06-24,F,Moraes de Minas,PI,1,2026-02-09,Platinum
+722,Eduarda,Nogueira,juanporto@example.net,53 4566-2629,1963-10-25,F,Fernandes de Goiás,SP,1,2025-12-02,Bronze
+723,Yan,Lima,afonseca@example.com,63 8870-8929,1971-10-24,F,Mendes,BA,1,2024-11-21,Bronze
+724,Pedro Henrique,Siqueira,ianfreitas@example.com,33 0986-1187,1995-03-01,F,da Conceição do Campo,CE,5,2025-12-13,Ouro
+725,Diego,Fogaça,maria-julia71@example.net,99 5555-9490,1960-03-21,M,Cavalcante,RO,5,2025-02-26,Platinum
+726,Agatha,da Cruz,enzo-gabriel32@example.net,82 7422-4477,1991-08-17,M,Nunes,SE,1,2025-05-01,Bronze
+727,Luigi,Sales,pda-mata@example.org,16 9282-1917,1997-08-05,M,Monteiro,AP,2,2024-01-02,Prata
+728,Alice,Montenegro,piresluiz-fernando@example.org,+55 45 5894-9101,2000-10-19,F,Moura de Goiás,RO,3,2024-08-23,Ouro
+729,Emanuel,Lima,davi-lucasferreira@example.org,37 0420-3156,1962-01-15,F,Vasconcelos,PE,1,2025-04-12,Ouro
+730,Léo,Lima,pietra60@example.org,+55 71 5466-1470,2002-05-04,F,Pereira do Amparo,PI,4,2024-09-22,Prata
+731,Rhavi,Cavalcanti,cavalcantefelipe@example.org,96 2444-1646,2008-04-06,M,Cirino,AC,3,2026-02-12,Bronze
+732,João,Gomes,da-cruzesther@example.org,+55 73 0083-1131,1997-01-29,M,das Neves,ES,1,2024-03-11,Platinum
+733,Aylla,Andrade,nina38@example.com,85 4091-6170,1989-08-08,F,Vieira de Sales,GO,4,2026-03-05,Platinum
+734,Ana Lívia,Porto,tgarcia@example.org,15 2501-1607,2006-06-06,M,Costela da Serra,MG,1,2024-05-07,Prata
+735,Daniela,Rios,camarajoao-pedro@example.net,+55 69 1417-2421,1990-02-17,M,Dias,MA,4,2025-08-11,Platinum
+736,Maria Cecília,Mendonça,yagosa@example.com,+55 14 9446-0657,1995-01-25,F,Fernandes,AL,5,2024-09-30,Bronze
+737,Maria Clara,Rezende,sviana@example.com,+55 14 2493-8784,2002-10-30,M,Silva da Prata,AL,2,2026-05-25,Prata
+738,Pedro Henrique,Cunha,carlos-eduardo38@example.net,+55 92 5927-7337,1997-02-05,F,Moreira de Goiás,RJ,3,2025-08-27,Bronze
+739,Júlia,Gonçalves,wferreira@example.org,18 4145-1632,1983-10-13,M,Siqueira Verde,ES,3,2026-05-13,Bronze
+740,Lara,Cunha,heloisamendonca@example.org,97 2033-0393,1976-11-29,M,Cavalcanti do Campo,DF,3,2025-03-15,Bronze
+741,Bárbara,Nunes,calebe55@example.com,+55 47 4956-2365,2000-08-20,M,Leão,MG,5,2024-07-30,Prata
+742,Natália,Moraes,rodrigo09@example.org,+55 87 0388-5727,1965-03-01,F,Castro de Caldeira,AM,1,2024-05-29,Ouro
+743,Laura,Correia,joao-lucas49@example.net,+55 96 1453-7094,1962-06-22,M,Vasconcelos da Serra,MS,5,2026-02-03,Prata
+744,Matheus,Pastor,isismartins@example.net,16 2184-4019,1975-06-30,F,Duarte,RO,5,2026-01-13,Ouro
+745,Vitória,Moura,gaelda-mota@example.com,+55 38 5812-1949,1967-06-08,F,da Luz do Oeste,RR,2,2024-09-17,Bronze
+746,Kaique,da Rocha,allana90@example.net,71 5434-4408,1956-11-02,F,Cardoso,RR,1,2024-01-22,Bronze
+747,Hadassa,da Rocha,oviana@example.org,33 4063-4645,1989-11-19,F,Martins,DF,2,2025-09-23,Bronze
+748,Raquel,Gonçalves,vitor43@example.com,21 4489-4277,1966-01-19,F,Ribeiro de Costa,SP,5,2023-12-21,Platinum
+749,Vicente,Viana,sazevedo@example.com,+55 43 9715-3991,1956-01-31,F,Sousa de Ramos,RR,1,2024-07-14,Ouro
+750,Sophie,Novaes,pintojoao@example.net,27 2969-5828,2004-09-11,F,Novaes de Araújo,SE,4,2024-10-17,Prata
+751,Luara,Rezende,maria-fernanda55@example.org,42 1566-1267,1967-02-09,F,Araújo,AC,5,2025-03-02,Platinum
+752,Zoe,Garcia,alvesisis@example.net,45 4392-9424,1969-01-17,F,Castro,RS,2,2025-08-25,Platinum
+753,Clarice,Fernandes,joao-miguel82@example.com,21 5121-6265,1973-12-08,M,Nascimento,RN,5,2024-06-17,Ouro
+754,Alexandre,Lopes,stephany66@example.com,11 9514-9579,2004-10-19,M,Rodrigues,SE,1,2024-09-19,Bronze
+755,Maria Julia,Gomes,agatha40@example.net,+55 71 3476-9185,1978-11-24,F,Carvalho do Oeste,AC,2,2024-04-29,Platinum
+756,Paulo,da Rosa,siqueiraana-laura@example.com,+55 61 5214-7487,2003-01-12,M,Martins,AM,4,2025-07-04,Ouro
+757,Elisa,Cavalcanti,mmarques@example.com,+55 44 5867-3843,1975-04-09,F,Azevedo,RS,1,2024-08-23,Bronze
+758,Davi,Brito,mbarros@example.org,+55 34 0835-5530,1979-05-09,M,Cirino da Mata,MT,3,2026-04-27,Platinum
+759,Ana Julia,Souza,camposnoah@example.com,+55 31 5367-4653,1961-08-14,F,da Rocha de Rocha,DF,3,2026-01-21,Bronze
+760,Benício,Gomes,benjamin00@example.com,+55 74 9265-7531,1992-07-20,M,Silveira,RN,1,2025-09-29,Prata
+761,Ana Liz,Fogaça,ucorreia@example.net,11 6489-7811,1992-12-08,F,Porto,AP,4,2026-06-21,Platinum
+762,Camila,Novaes,ferreiraluan@example.net,+55 86 7123-9531,1988-05-11,M,da Mota,RO,1,2024-02-23,Bronze
+763,Mariah,Barbosa,csouza@example.org,+55 41 4876-9657,1984-07-29,F,da Cruz,BA,5,2024-04-11,Bronze
+764,Pedro Henrique,Albuquerque,evelynvasconcelos@example.org,85 2023-9272,1981-10-30,F,Rezende das Pedras,SE,4,2023-12-24,Bronze
+765,Aurora,Costa,grezende@example.net,34 9085-4060,1997-05-03,F,Abreu,MS,4,2024-06-18,Platinum
+766,Maria Cecília,da Luz,heloisavargas@example.com,+55 32 8408-0879,1967-08-27,M,Santos,BA,5,2023-09-01,Prata
+767,Esther,Cunha,zmendes@example.net,+55 74 5780-9343,1979-11-17,M,Nunes,DF,4,2023-12-21,Prata
+768,Maria Isis,Garcia,agatha61@example.com,49 5121-1550,1980-09-06,M,Peixoto da Prata,SC,3,2026-07-09,Ouro
+769,Kaique,Garcia,danilo48@example.net,67 0728-6888,1959-12-03,F,Marques,MT,4,2024-09-10,Prata
+770,Isabelly,Aparecida,sophiecampos@example.com,+55 63 1116-0510,2005-11-05,M,Rocha,AC,2,2025-01-06,Platinum
+771,Marina,Dias,moreiraisabel@example.net,+55 79 5957-3727,1971-02-24,F,Cunha,PB,4,2024-09-23,Ouro
+772,Luiz Fernando,da Paz,limamaria-fernanda@example.net,84 5214-6815,2006-06-23,F,Jesus,AC,1,2024-11-02,Ouro
+773,Lucas Gabriel,Machado,vinicius73@example.net,85 0588-6968,1979-03-23,F,Casa Grande,SP,2,2025-01-21,Platinum
+774,Mariana,Monteiro,carolinasousa@example.com,67 5089-6485,2002-06-23,M,Albuquerque,GO,4,2024-09-15,Bronze
+775,Guilherme,Novaes,gabriel27@example.com,93 6494-9397,1981-03-10,M,Dias,RO,3,2025-02-05,Bronze
+776,Isabela,Brito,brenda60@example.net,+55 71 5599-4164,1992-09-23,F,da Conceição,AM,3,2025-12-05,Platinum
+777,Lucca,da Paz,novaistheo@example.net,+55 27 5300-3706,1996-03-03,F,Gomes,AC,4,2024-09-28,Ouro
+778,Evelyn,Alves,eduardocostela@example.com,+55 28 1783-0640,1991-09-05,F,Vargas,AC,5,2024-02-08,Prata
+779,Ana Liz,Mendes,macedoelisa@example.com,+55 99 9686-7184,1985-12-18,F,Porto,RR,3,2025-10-08,Prata
+780,Ana Luiza,Gonçalves,riospedro@example.net,27 5808-8815,1960-10-19,F,Aparecida,RR,3,2024-11-08,Prata
+781,Maria Fernanda,da Mota,teixeiraisis@example.net,53 0429-2796,2004-10-22,F,da Paz de Barbosa,ES,3,2025-02-21,Ouro
+782,Ana Julia,Fogaça,ana-sophiapeixoto@example.net,+55 53 9496-2988,1973-01-08,F,Garcia do Campo,MG,5,2024-12-11,Prata
+783,Anna Liz,Ferreira,britomaria-liz@example.org,+55 12 8450-5272,1959-07-28,F,Alves Verde,PA,4,2026-02-01,Ouro
+784,Oliver,Freitas,albuquerqueevelyn@example.net,41 2819-5970,1991-11-27,F,Martins,GO,3,2024-09-13,Bronze
+785,Lorenzo,Silva,fabreu@example.com,+55 79 3273-4282,1973-02-23,M,Borges da Prata,RO,5,2023-11-19,Prata
+786,Raul,da Rocha,abreuana-livia@example.org,17 1529-8733,2003-09-15,M,da Cunha,MT,4,2026-04-11,Prata
+787,Matteo,Monteiro,camaraisabela@example.org,61 7895-2224,2000-12-22,F,Alves de Peixoto,AL,3,2023-10-27,Bronze
+788,Felipe,Nunes,ryanpimenta@example.net,+55 21 8479-8810,2006-01-23,F,Barros,AL,4,2024-04-27,Prata
+789,Ana Cecília,Guerra,rduarte@example.net,28 1257-8815,1957-07-01,F,da Cunha dos Dourados,BA,2,2023-10-02,Ouro
+790,Maria Julia,Azevedo,rebecabarbosa@example.net,82 7091-7952,1982-06-12,M,da Costa Grande,RO,4,2023-10-25,Platinum
+791,Henry Gabriel,Marques,joao-pedrocosta@example.org,+55 83 7108-1254,1973-11-02,M,da Cunha Alegre,RS,4,2025-05-27,Platinum
+792,Augusto,das Neves,da-matamatteo@example.org,+55 92 1984-6251,2005-09-12,F,Pinto,GO,5,2026-01-15,Platinum
+793,Maria Eduarda,Rocha,arthur-miguelsales@example.org,93 6587-5759,1978-07-05,M,Teixeira,SC,3,2024-06-10,Bronze
+794,Laís,Casa Grande,jose-miguelrocha@example.org,+55 75 5208-0488,1961-06-28,M,Pinto,PB,2,2023-09-10,Ouro
+795,Maria Júlia,Vasconcelos,sophiapacheco@example.net,+55 63 2588-5043,2005-02-08,M,Pinto dos Dourados,PI,5,2024-10-14,Bronze
+796,Pedro Lucas,Carvalho,novaescatarina@example.com,+55 48 8788-3951,2000-04-09,F,Macedo Verde,PA,3,2025-06-21,Platinum
+797,Gustavo Henrique,Vieira,goncalvesayla@example.com,+55 19 9954-8549,1972-10-08,M,Camargo,AC,1,2026-03-06,Bronze
+798,Amanda,Gonçalves,garciaalana@example.net,+55 63 3791-8449,1957-01-20,F,Barbosa da Serra,BA,2,2024-08-03,Prata
+799,Letícia,Leão,joao-gabriel90@example.net,33 8542-4654,2007-03-18,F,Sousa,ES,3,2026-06-07,Platinum
+800,Maria Alice,Carvalho,jose-pedromacedo@example.net,66 0960-2945,1973-11-19,F,Silva de Vasconcelos,RJ,5,2025-04-05,Prata
+801,Ana Beatriz,Vieira,sfarias@example.org,+55 92 3692-1884,1975-06-03,F,Campos,DF,1,2026-04-19,Platinum
+802,Jade,Melo,wpimenta@example.net,38 9883-6824,1988-09-18,M,Vasconcelos,AM,3,2024-01-30,Platinum
+803,Ana Júlia,Pimenta,danielda-conceicao@example.com,+55 81 3464-4076,1998-12-09,M,Pereira,PB,1,2023-12-07,Prata
+804,João,Gonçalves,pda-mata@example.net,+55 33 1617-4098,1994-10-12,F,Melo de Borges,SE,3,2024-05-11,Ouro
+805,Arthur Miguel,Fogaça,gustavo-henrique17@example.net,+55 41 3032-0489,1975-08-20,F,Cunha,TO,2,2025-12-13,Platinum
+806,Lorenzo,Câmara,ana-laura83@example.com,45 1856-2987,1983-05-30,F,Borges,TO,4,2026-01-25,Bronze
+807,Carlos Eduardo,Rios,aurora06@example.net,+55 69 9395-1974,1987-08-16,F,Rezende,AM,4,2023-12-14,Ouro
+808,Nathan,Araújo,maria-alice53@example.net,+55 98 3924-9331,1961-01-22,M,Camargo,TO,3,2025-09-29,Bronze
+809,Ravi,Albuquerque,maria-sophiacavalcanti@example.org,34 7216-3458,1977-01-03,M,Gomes,PA,1,2023-09-16,Ouro
+810,Rael,Silveira,ilima@example.com,63 9200-2914,1986-03-06,M,Pires de Azevedo,MT,2,2024-01-18,Prata
+811,Daniel,Barros,yda-mata@example.net,+55 74 3705-1697,1991-03-11,M,Vargas,MS,5,2024-11-09,Prata
+812,Heloisa,Sales,maria-vitoria45@example.org,+55 73 8168-8389,2006-03-09,F,Rios das Flores,RS,5,2025-04-09,Platinum
+813,Henry Gabriel,Barbosa,salescarlos-eduardo@example.org,+55 15 0185-4585,1960-10-12,F,Jesus,RR,2,2025-03-13,Platinum
+814,Pedro Henrique,Machado,pastorvinicius@example.org,0800 466 1216,1977-08-20,M,Costa,RN,2,2026-07-28,Platinum
+815,Ana Cecília,Machado,noah43@example.org,+55 31 0175-4521,1971-11-04,F,Cirino Grande,CE,1,2024-07-29,Prata
+816,Théo,Moreira,danilomartins@example.net,+55 32 8827-4236,1955-12-06,F,Vieira do Sul,MT,5,2025-02-01,Platinum
+817,Pedro Lucas,Marques,lauraalbuquerque@example.org,16 4430-9795,1974-07-23,F,Pereira da Praia,RR,1,2024-10-24,Prata
+818,Enzo,Duarte,albuquerqueesther@example.net,11 1406-2208,1965-12-27,M,Costa,MA,3,2023-12-03,Bronze
+819,Isis,Ribeiro,britobento@example.net,+55 69 1743-7540,1999-11-08,M,da Conceição de Ferreira,PI,5,2024-12-14,Prata
+820,João Gabriel,Mendes,sophie06@example.com,84 8509-6869,1964-07-17,F,Peixoto,PB,3,2026-03-15,Prata
+821,Juliana,Viana,abreuryan@example.net,0900 082 6703,2004-08-09,F,Gonçalves,AP,1,2024-10-04,Ouro
+822,Enzo,Rodrigues,henry72@example.org,+55 45 9000-8796,1988-09-30,F,Gonçalves das Pedras,AC,5,2024-04-10,Ouro
+823,Luiz Fernando,Jesus,cardosothiago@example.com,+55 21 5992-9550,1980-01-01,F,Carvalho do Campo,PR,5,2026-03-05,Platinum
+824,Cauã,Santos,cavalcantiolivia@example.org,15 2824-7147,1983-12-07,M,Borges da Praia,PB,3,2023-12-14,Ouro
+825,Davi Lucas,Cardoso,maria-isislopes@example.net,+55 47 7725-0674,1968-12-27,F,Moura,DF,5,2025-03-25,Prata
+826,Olívia,Pastor,davi-lucca06@example.org,33 8935-9908,1992-03-13,F,Souza da Mata,AP,5,2023-12-27,Bronze
+827,Letícia,Azevedo,pviana@example.net,+55 61 8587-5624,1963-09-08,M,Albuquerque,ES,3,2026-06-23,Bronze
+828,Luiz Henrique,Mendes,mcorreia@example.net,64 6438-0393,1967-10-26,M,da Cruz de Costa,AP,3,2026-04-15,Bronze
+829,Valentim,Barros,cunhacarolina@example.net,+55 44 9263-4708,1958-10-03,M,das Neves,PI,3,2023-11-14,Prata
+830,Julia,Pimenta,ester57@example.net,+55 83 4956-7142,1977-10-05,F,Moura do Galho,PI,4,2024-01-12,Prata
+831,Allana,Gomes,yago89@example.net,34 8671-3190,1997-06-17,F,Costa de Goiás,RS,4,2024-11-18,Prata
+832,Sophie,da Costa,levi30@example.org,24 9804-4420,2001-01-29,F,Monteiro de Melo,SC,5,2025-02-07,Prata
+833,Maya,Sá,psampaio@example.net,0300 509 8265,1983-05-20,M,Duarte,SC,4,2025-06-03,Ouro
+834,Ana Clara,Aparecida,rafaelnovais@example.net,24 4391-4769,1964-11-30,M,Santos de Fogaça,SC,2,2024-06-14,Ouro
+835,Evelyn,Santos,lunnaalbuquerque@example.net,24 5978-0988,1971-11-02,F,Peixoto,RJ,5,2023-12-26,Bronze
+836,Henrique,Gomes,marcela67@example.com,37 7723-9899,1966-12-20,F,Garcia do Norte,MG,1,2024-10-24,Platinum
+837,Maria Alice,Macedo,da-luzbrenda@example.net,16 6027-1471,1983-01-05,M,Cavalcante do Campo,RN,2,2026-07-22,Platinum
+838,Felipe,da Paz,davi-luizda-mota@example.com,74 8399-7777,1972-05-31,F,da Cruz,MA,4,2024-07-08,Platinum
+839,Valentim,Souza,luigi24@example.net,+55 16 2752-4189,1991-09-20,F,Fernandes Alegre,PA,4,2024-06-01,Platinum
+840,Vinícius,Santos,mathiasvargas@example.com,+55 15 0478-1422,2004-08-08,M,Machado,SP,1,2024-03-20,Bronze
+841,Paulo,das Neves,limamanuela@example.com,93 1513-1881,1964-06-20,M,Ribeiro de Cavalcante,PI,3,2025-09-10,Bronze
+842,Fernanda,Novais,domnascimento@example.com,74 8560-2790,1998-12-04,F,Casa Grande do Oeste,MG,2,2023-12-22,Ouro
+843,Maria Liz,Mendonça,hporto@example.net,+55 15 2341-7520,1984-01-04,M,Lopes da Praia,RS,4,2025-07-21,Platinum
+844,Olivia,Araújo,lopeslucas-gabriel@example.net,+55 24 2371-3605,1973-01-17,M,Marques,MG,5,2024-10-16,Bronze
+845,Yago,Nogueira,britobenicio@example.com,55 5232-7391,1979-06-21,F,Monteiro,CE,5,2024-10-11,Ouro
+846,Maria Luiza,Barros,caue27@example.com,+55 85 2945-5676,1975-11-21,M,Cassiano de Pereira,AM,4,2023-09-27,Prata
+847,Daniel,Gomes,ana-cecilia75@example.org,28 9386-5686,1998-03-29,F,Casa Grande,PR,1,2024-10-19,Prata
+848,Yuri,da Conceição,da-rosabarbara@example.com,+55 64 3980-6875,1981-03-12,F,Sales de Porto,MT,1,2024-07-23,Platinum
+849,Sophia,Carvalho,cviana@example.org,49 1764-4735,2003-09-18,F,Gomes,SC,3,2023-10-18,Bronze
+850,Sarah,Caldeira,lporto@example.com,+55 63 5636-6610,1957-09-06,F,Cavalcante,RR,1,2024-12-11,Prata
+851,Valentina,Cirino,leonardofernandes@example.com,+55 92 8584-1232,1996-04-05,M,Pacheco,PI,5,2024-11-05,Ouro
+852,Ana Julia,Moreira,caroline89@example.com,+55 45 9124-1152,2001-05-24,F,Melo,PE,2,2026-07-10,Prata
+853,Antônio,Almeida,icavalcanti@example.net,89 9288-5862,1990-11-14,M,Camargo,RR,2,2025-11-07,Bronze
+854,Theo,Farias,trios@example.org,16 2593-7888,1996-09-11,F,Vieira das Flores,SC,5,2026-04-24,Ouro
+855,Hadassa,Monteiro,otavio78@example.net,55 1688-5371,1976-12-03,M,Vasconcelos,MT,3,2026-05-07,Ouro
+856,Gabrielly,da Luz,murilonogueira@example.org,0300 539 2188,1979-08-24,F,Cavalcanti,RN,5,2025-06-20,Ouro
+857,Isadora,Rodrigues,vitor66@example.org,+55 97 2363-5166,1966-07-09,M,Melo,PR,2,2023-11-19,Platinum
+858,Isis,Sales,monteiropedro@example.net,27 1620-0563,2001-02-16,M,da Cunha do Sul,PB,3,2024-05-08,Prata
+859,Ana Sophia,Fernandes,vianajoao-miguel@example.com,+55 35 6090-9581,1955-10-25,M,Costa Alegre,RJ,2,2024-06-18,Prata
+860,João,da Cruz,pastormariane@example.com,+55 21 1032-3176,1962-10-21,F,Moreira,CE,2,2024-09-22,Platinum
+861,Emanuella,Martins,barbarasousa@example.com,41 9259-2502,1965-01-29,F,Rezende Alegre,DF,2,2026-02-21,Ouro
+862,Maria Julia,da Mata,eda-luz@example.org,33 9743-8592,1999-02-17,F,Lopes,SE,4,2023-11-22,Platinum
+863,Mathias,Mendes,matteoda-paz@example.net,+55 49 6266-2865,1998-11-06,M,Peixoto,SP,1,2026-02-04,Platinum
+864,Henry,Costela,daraujo@example.net,+55 86 5535-5685,1978-11-28,F,Ramos,MS,3,2023-12-05,Platinum
+865,Ana Luiza,Teixeira,alexia81@example.com,+55 83 1478-1542,1997-11-08,F,Cassiano,CE,3,2025-05-04,Bronze
+866,Maria Luísa,Aparecida,isadora64@example.com,+55 31 3033-2171,1972-02-18,M,Nascimento da Praia,MS,4,2023-12-02,Ouro
+867,Maya,Mendonça,asaferezende@example.com,35 7404-9195,1982-02-02,M,Mendonça,AC,5,2026-04-21,Platinum
+868,Laura,da Conceição,arthur-miguelcaldeira@example.org,33 9492-2869,2007-06-11,M,da Conceição,SC,4,2024-11-01,Prata
+869,Isaque,Monteiro,barbarateixeira@example.org,99 8650-1335,1981-03-21,F,Guerra,PR,3,2025-01-28,Ouro
+870,Henry,Rodrigues,kramos@example.com,+55 73 1800-8612,2001-08-21,F,Cirino de da Rosa,RN,3,2024-03-12,Prata
+871,Beatriz,da Rocha,rodriguesmelissa@example.com,+55 22 5788-2085,2005-02-02,F,Martins,AP,3,2024-07-23,Bronze
+872,Oliver,Correia,fonsecaemanuel@example.net,64 1802-4156,1956-11-25,M,Melo,RN,1,2025-01-27,Platinum
+873,Pietra,Pacheco,ana-ceciliaribeiro@example.net,47 4612-4677,1973-12-25,M,Pereira Verde,TO,1,2026-03-20,Prata
+874,Gael,Mendes,vinicius02@example.net,84 5127-9394,1987-08-19,F,Sales do Norte,MS,4,2025-12-11,Bronze
+875,Thomas,Oliveira,henry-gabriel84@example.com,88 3258-9346,1998-04-07,F,Albuquerque de das Neves,RS,2,2024-07-08,Prata
+876,Emanuel,Sampaio,rael18@example.net,46 1659-7713,1998-02-20,F,da Costa,AM,2,2025-11-24,Ouro
+877,Eloah,Gonçalves,goncalvesalicia@example.org,+55 74 8016-0981,1973-01-13,M,Pimenta,CE,3,2024-07-06,Ouro
+878,Bryan,Carvalho,peixotoyan@example.net,0900 061 3682,1992-12-23,M,Monteiro Alegre,PE,3,2025-10-10,Prata
+879,Apollo,Marques,sferreira@example.net,94 0316-2448,1964-12-16,M,Mendes do Oeste,PE,4,2023-11-20,Ouro
+880,Cecilia,Sousa,isabela50@example.org,+55 68 7578-4652,1979-05-19,M,Rezende,PB,4,2025-09-16,Bronze
+881,Maria Eduarda,Vasconcelos,mendeserick@example.net,+55 37 1418-5148,1960-11-07,M,Fernandes,PA,1,2026-06-17,Prata
+882,Luigi,Peixoto,ycamara@example.net,+55 19 5659-0422,1981-11-07,F,Garcia do Norte,ES,1,2026-04-30,Prata
+883,Eloah,Câmara,aurora33@example.org,+55 12 8126-7046,1997-02-15,M,da Rosa,RS,5,2024-09-02,Platinum
+884,Breno,Pereira,ana-carolinaoliveira@example.com,37 3558-6053,2000-07-14,M,Porto,GO,1,2025-06-30,Ouro
+885,Marcelo,Guerra,joaoandrade@example.org,96 1930-1897,1964-06-15,M,Albuquerque da Prata,PR,4,2026-05-22,Prata
+886,Isaac,Garcia,dsiqueira@example.org,+55 17 2162-7492,1971-06-06,F,Castro,TO,1,2024-10-05,Prata
+887,Maria Luísa,Costela,rafaela87@example.org,+55 84 6707-7339,2003-12-16,F,Oliveira,SC,1,2026-08-01,Bronze
+888,Mariana,Costa,wnascimento@example.org,34 6906-0565,1969-08-15,M,Leão,AC,3,2025-05-12,Ouro
+889,Emilly,Azevedo,oviana@example.net,+55 92 7952-8348,1962-11-06,F,Pimenta do Campo,SE,2,2024-01-28,Platinum
+890,Mariah,Rocha,uda-paz@example.org,66 1489-9907,1979-09-14,M,Jesus de Nogueira,PB,2,2026-05-30,Bronze
+891,Marcela,Silveira,qbarbosa@example.net,86 1625-9040,1971-10-28,M,Montenegro de Machado,TO,5,2025-10-23,Prata
+892,Isadora,Fonseca,kda-paz@example.net,+55 49 7003-2979,1992-01-15,F,Marques do Galho,BA,3,2024-05-26,Prata
+893,Yan,Caldeira,gabriel78@example.org,+55 54 4455-2445,1960-10-17,M,Almeida do Galho,SC,4,2026-03-29,Platinum
+894,Alexia,Câmara,ana-vitoriacostela@example.net,+55 43 1968-7683,1968-08-06,M,da Rosa,PB,1,2024-02-21,Bronze
+895,Oliver,Rezende,rpereira@example.org,47 5830-2957,1970-06-27,M,Aragão,SP,1,2024-10-09,Platinum
+896,Mariane,da Conceição,hbarros@example.org,19 4093-4063,1994-11-25,F,da Cruz de Araújo,PB,4,2024-04-07,Ouro
+897,Thales,Sales,milena92@example.net,+55 65 0497-6207,1965-11-25,M,Correia,RN,2,2024-08-08,Ouro
+898,Matteo,Machado,luan03@example.net,94 5644-8823,1993-10-10,M,Martins,RR,2,2025-10-28,Ouro
+899,Lorenzo,Leão,pintoevelyn@example.net,+55 66 0260-9902,1999-07-09,M,da Cruz,MT,3,2024-07-14,Prata
+900,Levi,Abreu,marcos-viniciusfogaca@example.org,+55 65 8503-3241,1970-07-11,M,Albuquerque,TO,4,2025-04-27,Ouro
+901,Luiz Henrique,Fogaça,gael-henrique46@example.com,+55 68 8730-6321,1959-03-03,M,Costa,AC,2,2026-06-13,Platinum
+902,Natália,Ferreira,sguerra@example.com,+55 89 4577-9262,1996-12-07,F,Gomes,AL,1,2025-12-22,Prata
+903,Eduarda,Porto,portolucca@example.org,+55 53 5625-3844,1996-09-05,F,Brito das Flores,AM,5,2025-07-09,Bronze
+904,Ana Beatriz,Martins,sousaeduardo@example.net,+55 43 5066-8610,1964-03-24,M,Costa de Sales,SC,3,2024-06-27,Ouro
+905,Lucas,Mendes,andradeeduarda@example.net,51 9266-1818,1968-08-20,M,Dias,GO,4,2024-06-17,Platinum
+906,Zoe,Caldeira,brezende@example.net,94 2298-3399,2001-09-27,F,Rios do Amparo,RS,5,2025-05-15,Prata
+907,Gustavo Henrique,Vasconcelos,kevin83@example.org,85 5684-2315,1996-11-06,F,Silva de da Cruz,DF,1,2023-11-10,Bronze
+908,Yago,Siqueira,nicole88@example.com,79 5939-1052,1957-11-09,M,das Neves das Flores,PI,1,2023-10-23,Ouro
+909,Anthony,Lima,hmendes@example.org,+55 55 6894-8521,2001-10-24,M,Rodrigues,PB,1,2023-11-21,Bronze
+910,Luana,Fonseca,vargasemanuel@example.org,16 2552-2383,1977-10-18,F,Pacheco,GO,5,2025-02-26,Ouro
+911,Guilherme,da Paz,ocosta@example.org,49 3395-0054,1975-12-31,F,Duarte,BA,4,2026-05-29,Platinum
+912,Rebeca,Nunes,fcorreia@example.org,+55 27 1595-8507,1986-03-11,M,Cirino,MS,5,2026-01-18,Prata
+913,Levi,Rodrigues,freitaspedro@example.org,+55 79 4209-2136,1968-12-18,F,Cardoso Paulista,SE,1,2023-10-21,Ouro
+914,Isabella,Rezende,abreumatteo@example.com,+55 65 5688-6153,2005-08-14,M,Lima,SE,5,2026-05-22,Prata
+915,Heitor,Vasconcelos,goncalvesbenjamim@example.net,48 4294-1598,1995-01-01,M,Campos de Borges,PI,5,2025-02-10,Ouro
+916,Ian,Moreira,maria-sophiapereira@example.org,+55 95 1081-3994,1972-04-02,F,Costela Verde,AM,5,2025-07-16,Bronze
+917,Maria Julia,Gonçalves,joao-gabrielcardoso@example.net,+55 69 5898-3009,2006-10-27,F,da Luz,AP,4,2026-06-16,Prata
+918,José Pedro,Guerra,noah55@example.org,18 7407-8389,1966-03-04,M,Macedo,RS,2,2026-04-05,Bronze
+919,Maria Julia,Mendonça,marcos-vinicius02@example.org,+55 32 2590-8587,1964-05-13,F,Porto,AM,1,2025-03-22,Platinum
+920,Ester,Cavalcante,marcos-viniciusmonteiro@example.org,+55 66 4284-6629,1982-01-15,M,Cassiano de Goiás,RJ,3,2025-05-19,Prata
+921,Henrique,Pinto,fernandomoraes@example.org,37 4555-7210,1984-07-14,M,Araújo,MS,1,2024-08-19,Prata
+922,Luiz Fernando,Costela,theo71@example.net,+55 69 0467-4558,1983-06-01,M,Costela da Mata,RR,2,2025-05-03,Platinum
+923,Ana Lívia,Rocha,joao-guilhermecamara@example.com,+55 54 1618-5149,1960-10-10,F,Silveira do Sul,TO,5,2025-03-01,Ouro
+924,Ana Julia,Abreu,melissada-costa@example.net,95 8587-8618,1986-06-15,M,da Cruz da Serra,TO,3,2025-12-12,Prata
+925,Gustavo,Teixeira,pietrobarbosa@example.org,+55 86 7241-4029,2006-04-26,F,Pinto do Amparo,AM,1,2024-03-13,Bronze
+926,Gael,Correia,rafaela66@example.net,97 9167-7628,1963-07-09,F,Novais Alegre,RO,4,2024-11-25,Ouro
+927,Eloá,Siqueira,riosgael-henrique@example.net,+55 92 7234-5771,1999-07-29,M,Silva de Minas,PA,3,2026-05-03,Bronze
+928,Levi,das Neves,sophia51@example.com,+55 68 6453-4709,1966-10-20,F,Novaes de Silveira,ES,4,2026-04-29,Ouro
+929,Antonella,Cirino,alicia14@example.net,+55 14 5666-2826,1978-08-19,M,Sá,RS,4,2024-02-24,Prata
+930,Lucas Gabriel,da Rosa,mouramaria-alice@example.com,+55 91 5480-3811,1971-04-05,F,Teixeira,AC,2,2026-02-28,Ouro
+931,Otávio,Brito,ecosta@example.com,92 9829-3717,2000-09-15,M,da Cruz,RO,5,2024-03-19,Bronze
+932,Helena,Marques,joao-pedro63@example.org,34 0794-9951,1981-02-25,M,Duarte de Oliveira,RR,5,2026-07-29,Bronze
+933,Arthur Gabriel,Cunha,alveslivia@example.org,+55 32 1187-7334,1971-08-06,M,Moraes,ES,1,2023-09-15,Prata
+934,José,Pires,earagao@example.net,+55 81 7678-9576,2001-11-08,M,Cavalcanti,PI,4,2025-12-07,Ouro
+935,Gabriel,Ferreira,otavioviana@example.org,+55 54 7370-5173,1986-08-07,F,Araújo do Sul,SP,2,2026-01-07,Prata
+936,Maria Júlia,Lopes,lauraferreira@example.com,95 4553-4375,1997-02-06,M,Silva de Goiás,PB,5,2024-04-28,Platinum
+937,João Guilherme,Gomes,caueda-mota@example.org,53 9561-3132,2000-04-16,M,Santos,SE,3,2024-04-14,Prata
+938,João Felipe,Martins,freitasalana@example.org,+55 79 4541-5015,1985-12-13,F,da Rocha do Sul,PE,3,2025-07-06,Ouro
+939,Raul,Carvalho,cauapires@example.net,86 6332-7870,2000-08-09,M,Sá das Pedras,PB,5,2025-01-18,Ouro
+940,Stephany,Caldeira,aaraujo@example.net,65 2106-4976,1970-01-11,M,Rios,SE,5,2024-04-02,Bronze
+941,Isabela,Sousa,wsilva@example.net,+55 96 5714-6299,1983-04-07,M,Araújo,MS,2,2026-03-04,Bronze
+942,Fernanda,Camargo,teixeiraana-sophia@example.org,68 6798-4689,1979-12-31,F,Caldeira de da Rocha,SC,1,2024-10-23,Platinum
+943,Nina,Moreira,bryan62@example.org,+55 31 6596-0396,1989-01-15,F,Pinto da Serra,AC,3,2023-11-15,Ouro
+944,Ana Beatriz,Borges,da-motacatarina@example.com,+55 33 4489-8953,1991-02-24,M,Guerra das Flores,AC,5,2024-05-26,Platinum
+945,Yuri,da Rocha,josecunha@example.net,47 8491-1129,1962-05-11,M,Nascimento,RR,3,2023-09-28,Prata
+946,Bento,da Cruz,saisaque@example.net,+55 89 3901-9791,1966-06-25,F,Pereira,PA,5,2025-08-28,Ouro
+947,Lívia,Sá,yasmincastro@example.com,+55 33 1239-2937,1990-12-30,M,Marques,MG,4,2026-01-24,Ouro
+948,Maria Eduarda,Leão,martinseduarda@example.com,+55 19 4130-9668,1964-03-12,F,Martins Paulista,PB,2,2025-02-14,Prata
+949,Anthony Gabriel,Gomes,araujojulia@example.org,0300 597 1773,1983-02-16,M,Santos Paulista,BA,1,2025-06-07,Platinum
+950,Letícia,Campos,dda-cruz@example.org,54 5568-1293,2007-11-03,M,da Rocha de Pereira,MG,2,2024-02-19,Ouro
+951,João,Nascimento,bento34@example.org,24 7014-5725,1993-05-15,M,da Paz,SE,3,2023-09-19,Bronze
+952,Pietra,Gonçalves,rpinto@example.net,86 7675-5620,1972-11-27,F,Correia dos Dourados,AP,3,2024-06-22,Bronze
+953,Eduarda,Gomes,hmendes@example.org,33 0987-1417,1978-12-01,M,Correia da Serra,MS,5,2024-09-15,Prata
+954,Isabel,Fonseca,souzadanilo@example.com,89 8772-3722,1997-01-27,F,Cunha,PB,4,2025-01-02,Bronze
+955,Bernardo,Camargo,lucas-gabriel98@example.org,31 0101-8692,1998-10-10,M,da Cruz Alegre,RJ,3,2026-04-18,Bronze
+956,Leonardo,Mendes,maria-alice64@example.org,+55 19 4134-5137,1998-02-21,M,Nascimento,MG,2,2026-05-16,Platinum
+957,Gabriel,Ribeiro,bentoguerra@example.com,+55 95 6091-7124,1995-07-13,F,Duarte,AP,4,2024-01-05,Bronze
+958,Catarina,Pires,martinsyago@example.com,45 9491-9448,1956-11-21,M,Oliveira,SC,5,2025-11-14,Prata
+959,Ana Laura,Nascimento,ravy33@example.org,+55 27 7373-7779,1992-02-24,F,da Cunha de Cavalcante,RR,1,2024-06-21,Bronze
+960,Nicole,Borges,casa-grandemanuela@example.net,+55 62 3968-9204,2007-07-15,F,Mendonça de Albuquerque,RN,2,2024-05-04,Prata
+961,Ian,Ribeiro,gaelnogueira@example.net,75 7962-2962,1983-07-20,F,Casa Grande de Mendes,CE,3,2023-11-29,Ouro
+962,André,Siqueira,da-pazluiz-otavio@example.com,+55 17 9053-8449,1995-09-13,F,Correia da Mata,MA,3,2024-06-01,Ouro
+963,Aurora,Abreu,kamilly56@example.com,+55 92 4811-9309,1968-12-18,F,da Mota,DF,3,2023-09-19,Prata
+964,Giovanna,Fonseca,wda-cruz@example.org,81 0417-0864,1990-06-17,M,Barbosa,MA,2,2025-10-12,Prata
+965,Lucas,da Cunha,qandrade@example.com,55 6579-8406,1958-04-21,M,da Mata de Leão,AL,2,2024-02-17,Bronze
+966,Cauã,Martins,kmoraes@example.org,93 7732-5828,2003-07-20,M,Silva,RR,4,2026-05-25,Platinum
+967,Maria Luiza,Vasconcelos,nunesgael@example.net,+55 71 9328-0118,1977-10-03,F,Caldeira,SC,4,2026-06-26,Bronze
+968,Ana Júlia,Albuquerque,isadora54@example.com,71 0216-5245,2008-07-21,F,Albuquerque,SC,2,2024-09-01,Platinum
+969,Cauê,Porto,tmontenegro@example.org,98 2796-3244,1974-12-30,F,Novaes de Goiás,MA,4,2025-08-05,Ouro
+970,Otto,Moraes,avasconcelos@example.com,+55 38 5282-3434,2004-04-21,M,Jesus da Mata,SE,1,2023-12-15,Prata
+971,Maitê,Sampaio,igorda-rocha@example.net,+55 41 8901-2985,2003-06-03,F,Novaes,TO,5,2024-05-21,Bronze
+972,Enzo,Pacheco,isabel84@example.org,34 9891-7087,1972-03-17,M,Caldeira,TO,3,2025-05-02,Prata
+973,Bernardo,Silva,hsampaio@example.com,35 5311-9862,1976-09-22,M,Melo Verde,RJ,2,2024-04-11,Ouro
+974,Gabrielly,da Luz,sapedro-henrique@example.org,14 9465-6036,2003-02-07,F,Aragão da Praia,RR,5,2025-01-12,Bronze
+975,Ana,Siqueira,mouraenzo-gabriel@example.org,+55 67 1082-2370,1984-07-01,F,Duarte da Mata,AL,3,2024-07-30,Prata
+976,Maitê,Vargas,obarbosa@example.com,89 1111-8322,1984-10-18,M,Pires de Minas,TO,4,2025-04-07,Platinum
+977,Lorena,Novais,oda-costa@example.com,+55 18 8029-8008,1960-08-14,M,Pinto do Galho,AC,1,2025-01-21,Platinum
+978,Théo,Siqueira,ffernandes@example.com,+55 47 9305-7237,1999-10-20,M,da Rosa,RS,2,2026-06-09,Bronze
+979,Gabriela,Souza,ravi-luccasantos@example.net,+55 98 9551-9454,2003-05-07,M,Brito de Costela,AL,1,2025-09-21,Prata
+980,Otávio,Montenegro,wcostela@example.org,69 0205-5952,2004-07-11,M,da Rosa,SP,2,2025-09-25,Platinum
+981,Eloah,Duarte,xrocha@example.org,45 7589-9584,1992-10-27,F,Almeida de Carvalho,AC,1,2024-02-24,Ouro
+982,Bruna,Novais,isabella87@example.com,+55 35 3646-1068,2008-06-22,M,da Cunha,GO,1,2025-03-02,Bronze
+983,Yuri,Rios,ecastro@example.com,+55 87 7438-3143,1957-01-18,M,da Mota de Andrade,MT,4,2025-03-12,Prata
+984,Vinicius,Gonçalves,zpeixoto@example.net,+55 83 5229-0144,1989-12-21,M,Moraes da Serra,RS,3,2024-04-11,Bronze
+985,Laura,Monteiro,mirellafreitas@example.org,+55 89 9264-8553,1968-11-27,M,Fernandes de Goiás,RS,4,2026-03-01,Bronze
+986,Josué,Duarte,xbarros@example.com,41 3663-2665,2006-05-09,M,Casa Grande da Mata,SE,5,2026-08-04,Platinum
+987,Ágatha,Cardoso,palmeida@example.com,73 6939-4069,1969-02-10,F,Freitas,SC,4,2026-07-04,Bronze
+988,Augusto,Moraes,ana-lauramoura@example.net,24 9418-3386,1978-07-20,F,Câmara,MA,4,2024-12-15,Prata
+989,Henry,Aparecida,gribeiro@example.net,+55 95 5357-7188,1969-04-08,F,Moraes do Sul,PI,2,2026-03-29,Prata
+990,Laís,Machado,biancaaparecida@example.com,+55 51 3203-7244,1990-06-02,F,Mendes do Oeste,GO,3,2024-08-01,Platinum
+991,José Miguel,Caldeira,rioshelena@example.com,+55 53 1617-1543,1990-02-20,M,Souza,AP,1,2024-03-07,Prata
+992,Levi,Brito,rafaeljesus@example.net,44 0345-9336,1991-10-13,F,Lima da Mata,RS,4,2026-03-13,Platinum
+993,André,Porto,pgarcia@example.com,+55 54 9035-0671,1993-05-17,F,Moura,PA,1,2025-08-02,Bronze
+994,Dom,Costela,leo03@example.com,+55 68 8772-4395,1986-09-24,F,Borges do Oeste,RO,4,2023-11-23,Prata
+995,Arthur,Fonseca,maria-isis67@example.org,67 0899-0950,1997-05-15,F,Silveira,PA,2,2023-08-15,Prata
+996,Ana Carolina,Abreu,giovannamoura@example.org,+55 62 4275-8103,1981-09-03,M,Aragão,MG,4,2025-10-23,Ouro
+997,Allana,Duarte,sofiacirino@example.net,+55 77 3211-0940,1992-11-22,F,Barros,SC,5,2024-05-23,Platinum
+998,Rafaela,Oliveira,csantos@example.net,+55 81 0967-4233,1960-06-14,F,Sá,SC,5,2026-04-11,Ouro
+999,Milena,Borges,yda-mata@example.org,38 0494-3191,2002-10-11,F,Azevedo de Marques,ES,3,2023-10-30,Prata
+1000,Sarah,da Paz,mirella04@example.org,0800 191 3306,1974-05-24,M,Siqueira da Prata,MT,3,2024-09-20,Prata
