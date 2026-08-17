@@ -1,21 +1,27 @@
 -- Criação de Roles
-create role if not exists techmart_analyst
+create role if not exists techmart_analyst;
 grant role techmart_analyst to role sysadmin;
 use role sysadmin;
 
 -- Criar database
-create database if not exists techmart_dw
+create database if not exists techmart_dw;
 use database techmart_dw;
 
 -- Criar schema
-create schema if not exists staging
-create schema if not exists dw_core
-create schema if not exists dw_marts
+grant create schema on database techmart_dw to role sysadmin;
+create schema if not exists staging;
+create schema if not exists dw_core;
+create schema if not exists dw_marts;
 
 -- Criação de stage para carregar os csv
 use schema staging;
+create or replace file format ff_csv_techstore
+    type = csv
+    field_delimiter = ','
+    skip_header = 1
+    field_optionally_enclosed_by = '"';
 create or replace stage techmart_dw.staging.techmart_stage
-    file_format = techmart_dw.staging.ff_csv_techstore
+    file_format = techmart_dw.staging.ff_csv_techstore;
 
 -- Grants para a techmart_analyst
 grant usage on warehouse techmart_wh to role techmart_analyst;
