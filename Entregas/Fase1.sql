@@ -23,6 +23,16 @@ create or replace file format ff_csv_techstore
 create or replace stage techmart_dw.staging.techmart_stage
     file_format = techmart_dw.staging.ff_csv_techstore;
 
+-- Criação do warehouse
+use role sysadmin;
+
+create warehouse if not exists techmart_wh
+    warehouse_size = 'xsmall'
+    auto_suspend = 60
+    auto_resume = true
+    initially_suspended = true
+    comment = 'warehouse do projeto techstore data warehouse';
+
 -- Grants para a techmart_analyst
 grant usage on warehouse techmart_wh to role techmart_analyst;
 grant usage on database techmart_dw to role techmart_analyst;
