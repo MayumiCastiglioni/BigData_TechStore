@@ -60,7 +60,10 @@ create or replace table dw_core.dim_product (
     supplier_phone varchar(50),
     list_price number(12,2),
     cost number(12,2),
-    created_date date
+    created_date date,
+    effective_date date,
+    end_date date,
+    is_current boolean
 );
 
 create or replace table dw_core.dim_channel (
