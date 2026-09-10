@@ -50,7 +50,7 @@ create or replace table dw_marts.mart_market_basket (
     product_name_a             varchar(200),
     product_id_b              number,
     product_name_b             varchar(200),
-    qtd_pedidos_juntos         number,  -- em quantos pedidos apareceram juntos
+    qtd_pedidos_juntos         number,
     suporte_pct                number(6,2),
     confianca_pct              number(6,2),
     lift                       number(8,4),
